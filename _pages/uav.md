@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /uav/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: #"research/ecdf.png"
 ---
 
 My academic research falls into two main areas: understanding the influence of
@@ -33,7 +33,7 @@ into the early stages of radicalization.
 
 {% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+{% assign ordered_pages = site.uav | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}

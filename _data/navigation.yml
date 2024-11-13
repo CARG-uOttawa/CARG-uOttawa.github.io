@@ -14,6 +14,9 @@ main:
   - title: "UAV Research Group"
     url: /uav/
 
+  - title: "Members"
+    url: /members/
+
   - title: "Publications"
     url: /publications/
 
@@ -23,8 +26,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Members"
-    url: /members/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
 
