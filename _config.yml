@@ -21,7 +21,7 @@ repository               : "CARG-uOttawa/CARG-uOttawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "carg_logo.png"
+  avatar           : "UOttawa_logo1.png"
   name             : "Computational Analysis and Acceleration Research Group (CARG)"
   pronouns         : # example: "she/her"
   bio              : "Biomedical and UAV related research"
