@@ -221,6 +221,9 @@ collections:
   uav:
     output: true
     permalink: /:collection/:path/
+  health-devices:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
