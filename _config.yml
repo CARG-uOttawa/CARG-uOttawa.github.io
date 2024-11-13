@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "CARG - University of Ottawa"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "CARG-uOttawa/CARG-uOttawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "UOttawa_logo1.png"
+  avatar           : "carg_logo.png"
   name             : "Computational Analysis and Acceleration Research Group (CARG)"
   pronouns         : # example: "she/her"
   bio              : "Biomedical and UAV related research"
