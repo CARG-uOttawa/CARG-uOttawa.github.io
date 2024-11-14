@@ -224,7 +224,7 @@ collections:
   health-devices:
     output: true
     permalink: /:collection/:path/
-  talks:
+  people:
     output: true
     permalink: /:collection/:path/
 
