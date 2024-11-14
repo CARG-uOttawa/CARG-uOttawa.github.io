@@ -27,4 +27,4 @@ In recent years our research has gone in several different directions and theref
 School of Electrical Engineering and Computer Science (EECS), University of Ottawa  
 800 King Edward, Ottawa, Ontario, Canada, K1N 6N5  
 SITE, Room 5130  
-Coordinator Contact: Miodrag Bolic, mbolic@uottawa.ca
+Coordinator Contact: Miodrag Bolic, [email address](mailto:mbolic@uottawa.ca)
