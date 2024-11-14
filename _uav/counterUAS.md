@@ -1,6 +1,6 @@
 ---
-title: "BVLoS Flights for the purpose of infrastructure inspection"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Multimodal AI-based Counter UAS Systems"
+excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/500x300.png'>"
 collection: uav
 ---
 
