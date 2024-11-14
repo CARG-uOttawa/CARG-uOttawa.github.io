@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![CARG applications and research areas](/images/CARG_BlockDiagram.png){: .align-right width="300px"}
 The group is performing research in the following areas:
 
 - UAV (drone) detection and tracking, computer vision and sensor fusion, and biomedical machine learning
