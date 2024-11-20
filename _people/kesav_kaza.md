@@ -1,11 +1,11 @@
 ---
-name: Melanie Segado
+name: Kesav Kaza
 position: postdoc
-avatar: melanie.jpg
-twitter: 
+avatar:
+twitter:
 joined: 2023
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-msegado@seas.upenn.edu
+kkaza@uottawa.ca
