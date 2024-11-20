@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|collaborators|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -28,7 +28,7 @@ author_profile: true
 <h3>Research Staff</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
- {% elsif role == 'others' %}
+ {% elsif role == 'collaborators' %}
 <h3>Honorary Members</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
