@@ -1,6 +1,6 @@
 ---
 name: Subject One
-position: collaborator
+position: collaborators
 avatar: VarunkumarMehta.JPG
 joined:
 ---
