@@ -3,9 +3,10 @@ title: "Two Students: Enabling Uncertainty Quantification in Federated Learning 
 collection: publications
 category: conferences
 permalink: /publication/iglesias24.md
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt:
 date: 2024-02-17
 venue: 'NeurIPS 2024 Workshop BDU'
+slidesurl: 
 paperurl: 'https://openreview.net/pdf?id=eS9xH4vHEe'
 citation: 'C. Iglesias Jr, S. A. de Outeiro, C. Miceli de Farias and M. Bolic, Two Students: Enabling Uncertainty Quantification in Federated Learning Clients, NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty, 2024'
 ---
