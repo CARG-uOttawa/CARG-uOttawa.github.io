@@ -2,7 +2,7 @@
 title: "Two Students: Enabling Uncertainty Quantification in Federated Learning Clients"
 collection: publications
 category: conferences
-permalink: /publication/iglesias24.md
+permalink: /publication/iglesias24_1
 excerpt: 'This paper is about novel Bayesian approaches for federated learning.'
 date: 2024-12-10
 venue: 'NeurIPS 2024 Workshop BDU'
