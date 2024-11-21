@@ -29,7 +29,7 @@ author_profile: true
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
  {% elsif role == 'collaborators' %}
-<h3>Honorary Members</h3>
+<h3>Collaborators</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}

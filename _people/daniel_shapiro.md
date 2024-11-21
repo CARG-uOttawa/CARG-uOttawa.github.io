@@ -1,7 +1,7 @@
 ---
-name: Varunkumar Mehta
-position: collaborators
-avatar: VarunkumarMehta.JPG
+name: Daniel Shapiro
+position: alumni
+avatar:
 joined:
 ---
 
