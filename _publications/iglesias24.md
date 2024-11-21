@@ -6,6 +6,7 @@ permalink: /publication/iglesias24
 excerpt: 'This paper is about novel Bayesian approaches for federated learning.'
 date: 2024-12-17
 venue: 'NeurIPS 2024 Workshop BDU'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/pdf?id=eS9xH4vHEe'
 citation: 'C. Iglesias Jr, S. A. de Outeiro, C. Miceli de Farias and M. Bolic, Two Students: Enabling Uncertainty Quantification in Federated Learning Clients, NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty, 2024.'
 ---
