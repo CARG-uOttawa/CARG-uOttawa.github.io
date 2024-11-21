@@ -7,7 +7,7 @@ joined: 2020
 title: Fardad Dadboud
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Ph.D. student, University of Ottawa_<br>
 - _Member of [UAV Research Group](https://carg-uottawa.github.io/uav/) and [CARG](https://carg-uottawa.github.io/)_
@@ -21,7 +21,7 @@ title: Fardad Dadboud
 
 ### Bio
 
-Fardad Dadbour is a Ph.D. student at the University of Ottawa...
+Fardad Dadboud is a Ph.D. student at the University of Ottawa...
 
 ### Research Interests
 

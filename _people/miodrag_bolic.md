@@ -3,6 +3,7 @@ name: Miodrag Bolic
 position: pi
 avatar: miodrag-bolic.jpg
 twitter:
+title: "Miodrag Bolic"
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
