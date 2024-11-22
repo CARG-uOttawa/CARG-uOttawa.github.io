@@ -62,7 +62,7 @@ author_profile: true
 
 | Who are they | When were they here |Research Topic| Where they went |
 | :------------- |:-------------| :-----------|
-| [Daniel Shapito](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | M.Sc.student (2010-2012), Ph.D. student (2012-2018) | | Lemay.ai |
+| [Daniel Shapiro](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | M.Sc.student (2010-2012), Ph.D. student (2012-2018) | | Lemay.ai |
 
 
 {% endif %}

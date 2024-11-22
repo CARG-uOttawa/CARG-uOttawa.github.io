@@ -4,7 +4,7 @@ position: gradstudent
 avatar:
 twitter:
 joined: 2023
-title: D
+title: Meng Lian
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -26,4 +26,3 @@ Meng Lian was born in Heilongjiang, China, in July 1987. He received his B.S. an
 ### Research Interests
 
 Currently pursuing a PhD in Electrical Engineering, Meng is under the guidance of Dr. Miodrag Bolic as his mentor. His current research focuses on the convergence of deep learning and computer vision for UAV classification and tracking applications.
-

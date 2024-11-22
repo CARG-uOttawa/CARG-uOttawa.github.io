@@ -10,7 +10,7 @@ title: Zixiong Han
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Ph.D. student, University of Ottawa_<br>
-- _Member of [Health Devices Research Group](https://carg-uottawa.github.io/health-devices/)
+- _Member of [Health Devices Research Group](https://carg-uottawa.github.io/health-devices/)_
 
 
 ### Contact
@@ -25,6 +25,6 @@ Zixiong is a Research Assistant in the Health Device Research Group (HDRG) at th
 
 ### Research Interests
 
-Currently a PhD candidate in Electrical and Computer Engineering, Zixiong is advised by Dr. Miodrag Bolic. His research focuses on leveraging RF signals to extract digital phenotypes for healthcare applications in indoor environments. 
+Currently a PhD candidate in Electrical and Computer Engineering, Zixiong is advised by Dr. Miodrag Bolic. His research focuses on leveraging RF signals to extract digital phenotypes for healthcare applications in indoor environments.
 
 Visit his [webpage](https://owenhan10.github.io/) for a deeper dive or to have a chat!

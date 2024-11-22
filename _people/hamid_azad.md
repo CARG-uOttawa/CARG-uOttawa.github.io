@@ -1,6 +1,6 @@
 ---
 name: Hamid Azad
-position: associateresearcher
+position: researchstaff
 avatar:
 twitter:
 joined: 2021
