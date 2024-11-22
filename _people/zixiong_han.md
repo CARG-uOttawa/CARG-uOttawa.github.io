@@ -1,7 +1,7 @@
 ---
 name: Zixiong Han
 position: gradstudent
-avatar:
+avatar: zixiong_han.jpg
 twitter:
 joined: 2019
 title: Zixiong Han
