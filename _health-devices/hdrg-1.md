@@ -1,6 +1,6 @@
 ---
 title: "Continous cuffless blood pressure monitoring"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ContinousBPProcessing.png'>"
 collection: health-devices
 ---
 
@@ -30,3 +30,8 @@ The potential future research directions based on the findings and contributions
 * Integration with Wearables and Multi-Modal Approaches: Integrating cuffless BP estimation with wearable technologies and other health monitoring sensors (e.g., respiration, body temperature, movement) to provide a more comprehensive assessment of cardiovascular health.
 
 * Focus on Real-World Application and Clinical Utility: Further studies should focus on evaluating the usability and clinical utility of cuffless BP monitoring in real-world settings, including the impact of the new evaluation metrics on diagnosis, disease management, and patient outcomes.
+
+## References
+S. He, "A Study of Cuffless Blood Pressure Estimation," Ph.D. proposal, Dept. Electrical and Computer Engineering, Univ. Ottawa, Ottawa, Canada, 2023.
+
+S. He and M. Bolic, "Novel Metrics for Tracking Blood Pressure Changes in Continuous Cuffless Blood Pressure Estimations," Scientific Reports, vol. 14, no. 27478, pp. 1-14, 2024. doi: 10.1038/s41598-024-77171-6.
