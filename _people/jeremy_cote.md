@@ -11,8 +11,8 @@ joined: 2020
 
 _Undergraduate student, University of Ottawa_<br>
 
-### Contact
-Contact
+
+Contact: 
 <i class="fa fa-envelope-o"> jcote034@uottawa.ca<br>
 
 <hr>
