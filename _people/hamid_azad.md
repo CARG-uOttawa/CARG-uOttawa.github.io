@@ -1,7 +1,7 @@
 ---
 name: Hamid Azad
 position: researchstaff
-avatar:
+avatar: HamidAzad.jpg
 twitter:
 joined: 2021
 title: Hamid Azad
