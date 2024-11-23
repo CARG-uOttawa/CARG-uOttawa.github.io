@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Continous cuffless blood pressure (BP) monitoring"
+title: "Health Devices Research Group: <br/>Continous cuffless blood pressure (BP) monitoring"
 excerpt: "Machine learning and signal processing advances for BP monitoring <br/><img src='/images/ContinousBPProcessing.png'>"
 collection: health-devices
-author_profile: true
----
-# Continous cuffless blood pressure (BP) monitoring
 
-<img width="300" src='/images/ContinousBPProcessing.png'>{: style="float: left"}
+---
+
+<img width="500" src='/images/ContinousBPProcessing.png'>
 
 ## Motivation
 The motivation behind developing cuffless blood pressure (BP) estimation techniques is largely driven by the limitations associated with traditional cuff-based methods. Conventional BP measurement methods, such as auscultatory and oscillometric techniques, are cumbersome, uncomfortable, and unsuitable for continuous long-term monitoring, which is crucial for the early diagnosis and management of hypertension and cardiovascular diseases. The use of cuffs also presents barriers for nocturnal measurements and long-term patient monitoring.
