@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Health Devices Research Group (HDRG)"
+title: "CARG Health Devices"
 permalink: /health-devices/
 author_profile: true
 ---

@@ -8,10 +8,10 @@ main:
   - title: "About"
     url: "https://carg-uottawa.github.io/"
 
-  - title: "Health-Devices"
+  - title: "CARG Health-Devices"
     url: /health-devices/
 
-  - title: "UAV Research Group"
+  - title: "CARG UAV"
     url: /uav/
 
   - title: "People"
