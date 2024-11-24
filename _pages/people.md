@@ -17,6 +17,10 @@ author_profile: true
   {% continue %}
 {% endif %}
 
+{% for post in site.people %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
 <div class="pos_header">
 {% if role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>

@@ -5,6 +5,8 @@ avatar:
 twitter:
 joined: 2020
 title: Fardad Dadboud
+author_profile: true
+layout: archive
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

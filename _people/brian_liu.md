@@ -1,10 +1,12 @@
 ---
 name: Brian Liu (Hao)
 position: gradstudent
-avatar:
+avatar: Brian Liu.jpg
 twitter:
 joined: 2024
-title: 
+title: Brian Liu
+author_profile: true
+layout: archive
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -37,4 +39,3 @@ Brian Liu earned his B.Sc. and M.Sc. degrees in Control Theory and Control Engin
 ### Research Interests
 
 Supervised by Dr. Miodrag Bolic, Brian Liu is a member of the UAV group. His research focuses on the integration of radar signal processing, deep learning, and computer vision for UAV classification and tracking applications, with an emphasis on implementing new research results on drones.
-

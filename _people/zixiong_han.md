@@ -5,6 +5,8 @@ avatar: zixiong_han.jpg
 twitter:
 joined: 2019
 title: Zixiong Han
+author_profile: true
+layout: archive
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

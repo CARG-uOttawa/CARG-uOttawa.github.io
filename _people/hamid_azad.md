@@ -5,6 +5,8 @@ avatar: HamidAzad.jpg
 twitter:
 joined: 2021
 title: Hamid Azad
+author_profile: true
+layout: archive
 ---
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

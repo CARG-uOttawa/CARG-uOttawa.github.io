@@ -3,6 +3,8 @@ name: Jeremy Côté
 position: projectstudent
 avatar: jeremy_cote_photo.jpeg
 joined: 2020
+author_profile: true
+layout: archive
 ---
 
 
@@ -12,7 +14,7 @@ joined: 2020
 _Undergraduate student, University of Ottawa_<br>
 
 
-Contact: 
+Contact:
 <i class="fa fa-envelope-o"> jcote034@uottawa.ca<br>
 
 <hr>
