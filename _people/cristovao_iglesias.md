@@ -14,9 +14,9 @@ layout: archive
 <img width="100" src="Cristovao_iglesias.png" data-action="zoom">
 
 
-- _Research Associate
+- _Research Associate_
 - _Ph.D. in Computer Science (Machine Learning), University of Ottawa_<br>
-- _Member of [CARG](https://carg-uottawa.github.io/)_
+- _Member of [CARG Health-Device](https://carg-uottawa.github.io/)_
 
 
 ### Contact
