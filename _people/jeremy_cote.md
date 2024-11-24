@@ -5,11 +5,11 @@ avatar: jeremy_cote_photo.jpeg
 joined: 2020
 author_profile: true
 layout: archive
+title: Jeremy Côté
 ---
 
 
-<img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">{: style="float: left"}
-# Jeremy Côté
+<img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Undergraduate student, University of Ottawa_<br>
 
