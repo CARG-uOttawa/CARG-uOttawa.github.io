@@ -4,6 +4,8 @@ position: pi
 avatar: miodrag-bolic.jpg
 twitter:
 title: "Miodrag Bolic"
+field: ["Emotion Recognition", "Healthcare"]
+bio: "Dr. Miodrag Bolic is the PI on the project."
 author_profile: true
 layout: archive
 ---
