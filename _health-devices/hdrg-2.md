@@ -12,6 +12,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 ## Research Papers
 {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
 {% for paper in topic_papers %}
-- **[{{ paper.title }}]({{ paper.url }})** by {{ paper.author }} ({{ paper.date }})
+- **[{{ paper.title }}]({{ paper.url }})** by {{ paper.author }} ({{ paper.year }})
   ![Image for {{ paper.title }}]({{ publications.image }})
 {% endfor %}

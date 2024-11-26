@@ -10,6 +10,7 @@ venue: 'NeurIPS 2024 Workshop BDU'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/pdf?id=eS9xH4vHEe'
 author: "C. Iglesias Jr, et al."
+image: bio-photo-2.jpg
 citation: 'C. Iglesias Jr, S. A. de Outeiro, C. Miceli de Farias and M. Bolic, Two Students: Enabling Uncertainty Quantification in Federated Learning Clients, NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty, 2024.'
 ---
 
