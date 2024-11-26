@@ -17,6 +17,9 @@
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
   transition: transform 0.3s;
+  display: flex; /* Enables side-by-side layout */
+  align-items: center; /* Aligns items vertically (optional) */
+  gap: 20px; /* Space between image and text */
 }
 
 .paper-card:hover, .researcher-card:hover {
