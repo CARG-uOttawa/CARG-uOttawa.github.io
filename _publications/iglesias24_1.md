@@ -2,6 +2,7 @@
 title: "Two Students: Enabling Uncertainty Quantification in Federated Learning Clients"
 collection: publications
 category: conferences
+papertopic: ["Emotion Recognition", "AI"]
 permalink: /publication/iglesias24
 excerpt: 'This paper is about novel Bayesian approaches for federated learning.'
 date: 2024-12-17
