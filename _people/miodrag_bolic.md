@@ -6,6 +6,7 @@ twitter:
 title: "Miodrag Bolic"
 field: ["Emotion Recognition", "AI"]
 bio: "Dr. Miodrag Bolic is the PI on the project."
+status: "active"
 author_profile: true
 layout: archive
 ---

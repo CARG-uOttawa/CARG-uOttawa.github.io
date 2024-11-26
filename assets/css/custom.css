@@ -17,9 +17,6 @@
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
   transition: transform 0.3s;
-  display: flex; /* Enables side-by-side layout */
-  align-items: center; /* Aligns items vertically (optional) */
-  gap: 20px; /* Space between image and text */
 }
 
 .paper-card:hover, .researcher-card:hover {
@@ -45,20 +42,4 @@
 
 .btn:hover {
   background: #0056b3;
-}
-
-.image-text-container {
-  display: flex; /* Enables side-by-side layout */
-  align-items: center; /* Aligns items vertically (optional) */
-  gap: 20px; /* Space between image and text */
-}
-
-.image-text-container img {
-  max-width: 200px; /* Set a fixed width for the image */
-  height: auto; /* Maintain aspect ratio */
-  border-radius: 10px; /* Optional: Rounded corners for the image */
-}
-
-.text-content {
-  max-width: 600px; /* Limit text width for readability */
 }

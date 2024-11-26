@@ -18,13 +18,11 @@ layout: archive
     <div class="paper-grid">
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
-        <div class="image-text-container">
+        <div class="paper-card">
           <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
-          <div class="text-content">
             <h3>{{ paper.title }}</h3>
             <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
             <a href="{{ paper.url }}" class="btn">Read More</a>
-          </div>
         </div>
       {% endfor %}
     </div>
@@ -34,10 +32,23 @@ layout: archive
 <section id="people">
   <h2>Researchers</h2>
   <div class="researcher-grid">
-    {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" %}
+    {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "active" %}
     {% for researcher in field_researchers %}
       <div class="researcher-card">
-        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} class="float-image"">
+        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} ">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="alumni-researchers">
+  <h2>Alumni Researchers</h2>
+  <div class="researcher-grid">
+    {% assign alumni_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "alumni" %}
+    {% for researcher in alumni_researchers %}
+      <div class="researcher-card">
         <h3>{{ researcher.name }}</h3>
         <p>{{ researcher.bio }}</p>
       </div>
