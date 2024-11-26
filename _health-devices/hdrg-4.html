@@ -20,9 +20,9 @@ This is an item in your portfolio. It can be have images or nice text. If you na
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-          <img src="{{ paper.image }}" alt="{{ paper.title }}">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
           <h3>{{ paper.title }}</h3>
-          <p>By {{ paper.author }} ({{ paper.date }})</p>
+          <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
           <a href="{{ paper.url }}" class="btn">Read More</a>
         </div>
       {% endfor %}
@@ -36,7 +36,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" %}
     {% for researcher in field_researchers %}
       <div class="researcher-card">
-        <img src="{{ researcher.image }}" alt="{{ researcher.name }}">
+        <img width="100" src="{{ researcher.avatar }}" alt="{{ researcher.name }}">
         <h3>{{ researcher.name }}</h3>
         <p>{{ researcher.bio }}</p>
       </div>
