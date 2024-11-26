@@ -43,3 +43,18 @@
 .btn:hover {
   background: #0056b3;
 }
+
+.float-container {
+  overflow: hidden; /* Ensures the container wraps the floated elements */
+}
+
+.float-image {
+  float: left; /* Floats the image to the left */
+  margin-right: 20px; /* Adds spacing between image and text */
+  max-width: 200px;
+  height: auto;
+}
+
+.text-content {
+  overflow: hidden; /* Ensures text stays beside the image */
+}
