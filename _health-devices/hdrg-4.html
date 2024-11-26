@@ -19,7 +19,7 @@ layout: archive
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }} class="float-image"">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}" class="float-image">
           <h3>{{ paper.title }}</h3>
           <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
           <a href="{{ paper.url }}" class="btn">Read More</a>
