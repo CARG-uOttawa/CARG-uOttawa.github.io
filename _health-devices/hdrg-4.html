@@ -1,17 +1,16 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "CARG Health Devices: <br/>Emotion Recognition"
+excerpt: "Machine learning and signal processing for emotion recognition  <br/><img src='/images/500x300.png'>"
 collection: health-devices
 papertopic: AI
 author_profile: true
 layout: archive
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
 
 
 <div class="content-container">
-  <h1>Emotion Recognition</h1>
+  <h2>Motivation</h2>
 
   <!-- Section: Papers -->
   <section id="publications">
@@ -20,7 +19,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }} class="float-image"">
           <h3>{{ paper.title }}</h3>
           <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
           <a href="{{ paper.url }}" class="btn">Read More</a>
@@ -31,12 +30,12 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
   <!-- Section: Researchers -->
 <section id="people">
-  <h2>Researchers in This Field</h2>
+  <h2>Researchers</h2>
   <div class="researcher-grid">
     {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" %}
     {% for researcher in field_researchers %}
       <div class="researcher-card">
-        <img width="100" src="{{ researcher.avatar }}" alt="{{ researcher.name }}">
+        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} class="float-image"">
         <h3>{{ researcher.name }}</h3>
         <p>{{ researcher.bio }}</p>
       </div>
