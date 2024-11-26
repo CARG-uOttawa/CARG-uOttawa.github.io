@@ -1,10 +1,10 @@
 ---
 title: "Pervasive Cardiovascular and Respiratory Monitoring Devices: Model-Based Design"
 collection: publications
-category: manuscripts
+category: books
 papertopic: []
 permalink: /publication/bolic_m_2023_pervasive
-excerpt: "Pervasive Cardiovascular and Respiratory Monitoring Devices: Model-Based Design published in ."
+excerpt: "Book on biomedical instrumenation and devices published by Elsevier in 2023."
 date: 2023
 venue: ""
 slidesurl: ""
@@ -15,7 +15,3 @@ citation: "Bolic, M. Pervasive Cardiovascular and Respiratory Monitoring Devices
 ieee_citation: "M. Bolic, "Pervasive Cardiovascular and Respiratory Monitoring Devices: Model-Based Design," 2023."
 keywords: ""
 ---
-
-## Abstract
-
-Purchase Pervasive Cardiovascular and Respiratory Monitoring Devices - 1st Edition. Print Book & E-Book. ISBN 9780128209479, 9780128209486

@@ -16,6 +16,6 @@ ieee_citation: "M. Bolic, "Simulating the Effects of Melanin and Air Gap Depth o
 keywords: ""
 ---
 
-## Abstract
+
 
 Abstract not available.

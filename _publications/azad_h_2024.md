@@ -16,6 +16,6 @@ ieee_citation: "H. Azad, V. Mehta, I. Mantegh, M. Bolic, "DroneRanger: Vision-Dr
 keywords: ""
 ---
 
-## Abstract
+
 
 Abstract not available.
