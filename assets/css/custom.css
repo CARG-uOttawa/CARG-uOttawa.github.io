@@ -44,17 +44,18 @@
   background: #0056b3;
 }
 
-.float-container {
-  overflow: hidden; /* Ensures the container wraps the floated elements */
+.image-text-container {
+  display: flex; /* Enables side-by-side layout */
+  align-items: center; /* Aligns items vertically (optional) */
+  gap: 20px; /* Space between image and text */
 }
 
-.float-image {
-  float: left; /* Floats the image to the left */
-  margin-right: 20px; /* Adds spacing between image and text */
-  max-width: 200px;
-  height: auto;
+.image-text-container img {
+  max-width: 200px; /* Set a fixed width for the image */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px; /* Optional: Rounded corners for the image */
 }
 
 .text-content {
-  overflow: hidden; /* Ensures text stays beside the image */
+  max-width: 600px; /* Limit text width for readability */
 }
