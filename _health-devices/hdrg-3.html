@@ -1,0 +1,140 @@
+---
+title: "CARG Health Devices: <br/>JVP Estimation"
+excerpt: "Computer vision and signal processing for estimating jugular vein height based on showr vedeo recordings of the neck.  <br/><img src='/images/500x300.png'>"
+collection: health-devices
+papertopic: JVP
+author_profile: true
+layout: archive
+---
+
+
+
+<div class="content-container">
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smartphone-Based JVP Estimation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .motivation {
+            display: flex;
+            align-items: flex-start;
+        }
+        .motivation-text {
+            flex: 1;
+        }
+        .motivation-image {
+            margin-left: 20px;
+            flex-shrink: 0;
+        }
+        .motivation-image img {
+            max-width: 200px;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        h2 {
+            color: #0056b3;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Smartphone-Based JVP Height Estimation</h1>
+        <div class="section motivation">
+            <div class="motivation-text">
+                <h2>Motivation</h2>
+                <p>
+                    The accurate measurement of jugular venous pressure (JVP) is a critical tool for assessing central venous pressure, aiding in the diagnosis of cardiovascular diseases such as heart failure and pulmonary hypertension. Existing methods rely on either visual inspection by skilled clinicians or invasive procedures, limiting their accessibility and practicality, especially in remote or resource-limited settings.
+                </p>
+            </div>
+            <div class="motivation-image">
+                <img src="placeholder.jpg" alt="Motivation Image">
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Our Current Research</h2>
+            <p>
+                We developed the first system that uses a standard smartphone camera to estimate JVP height, leveraging a combination of pixel motion analysis and color changes (iPPG). This approach extracts cardiac and respiratory signals from the neck region using video recordings under ambient lighting conditions. The system demonstrated strong performance, accurately estimating heart rate (HR) and respiratory rate (RR) with high correlation coefficients (HR: r=0.98, RR: r=0.85), while also identifying the highest visible point of the jugular vein.
+            </p>
+            <p>
+                By integrating dense optical flow for pixel motion and iPPG for color-based blood volume changes, the system captures physiological signals with precision. This dual-mode analysis enables robust detection of jugular venous pulsations, overcoming challenges associated with noise, motion artifacts, and diverse lighting conditions. Echocardiogram-guided labeling was used to validate the system against gold-standard measurements.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Future Directions</h2>
+            <ul>
+                <li>Enhance algorithmic robustness against motion artifacts and variability in patient anatomy by refining the integration of motion and color-based signals.</li>
+                <li>Develop machine learning models to automatically segment and classify the jugular venous region, eliminating the need for manual input.</li>
+                <li>Adapt the system for real-time use in telehealth platforms, enabling remote monitoring of cardiovascular health, especially in patients with limited access to specialized care.</li>
+                <li>Explore combining smartphone-based imaging with wearable devices for a multi-modal, continuous monitoring solution.</li>
+                <li>Conduct large-scale clinical trials to validate the system in diverse populations and ensure it is cost-effective and accessible, particularly for use in underserved areas.</li>
+            </ul>
+        </div>
+    </div>
+
+
+
+  <!-- Section: Papers -->
+  <section id="publications">
+    <h2>Research Papers</h2>
+    <div class="paper-grid">
+      {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
+      {% for paper in topic_papers %}
+        <div class="paper-card">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
+            <h3>{{ paper.title }}</h3>
+            <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
+            <a href="{{ paper.url }}" class="btn">Read More</a>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Section: Researchers -->
+<section id="people">
+  <h2>Researchers</h2>
+  <div class="researcher-grid">
+    {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "active" %}
+    {% for researcher in field_researchers %}
+      <div class="researcher-card">
+        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} ">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="alumni-researchers">
+  <h2>Alumni Researchers</h2>
+  <div class="researcher-grid">
+    {% assign alumni_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "alumni" %}
+    {% for researcher in alumni_researchers %}
+      <div class="researcher-card">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+</div>
+
+</body>
+</html>
