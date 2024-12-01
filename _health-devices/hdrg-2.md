@@ -2,16 +2,58 @@
 title: "Portfolio item number 2"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: health-devices
-papertopic: AI
+papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
 
-## Research Papers
-{% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
-{% for paper in topic_papers %}
-- **[{{ paper.title }}]({{ paper.url }})** by {{ paper.author }} ({{ paper.date }})
-  ![]({{ publications.image }})
-{% endfor %}
+
+<div class="content-container">
+  <h2>Motivation</h2>
+
+  <!-- Section: Papers -->
+  <section id="publications">
+    <h2>Research Papers</h2>
+    <div class="paper-grid">
+      {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
+      {% for paper in topic_papers %}
+        <div class="paper-card">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
+            <h3>{{ paper.title }}</h3>
+            <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
+            <a href="{{ paper.url }}" class="btn">Read More</a>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Section: Researchers -->
+<section id="people">
+  <h2>Researchers</h2>
+  <div class="researcher-grid">
+    {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "active" %}
+    {% for researcher in field_researchers %}
+      <div class="researcher-card">
+        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} ">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="alumni-researchers">
+  <h2>Alumni Researchers</h2>
+  <div class="researcher-grid">
+    {% assign alumni_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "alumni" %}
+    {% for researcher in alumni_researchers %}
+      <div class="researcher-card">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+</div>

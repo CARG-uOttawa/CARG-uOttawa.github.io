@@ -36,7 +36,51 @@ The potential future research directions based on the findings and contributions
 
 * Focus on Real-World Application and Clinical Utility: Further studies should focus on evaluating the usability and clinical utility of cuffless BP monitoring in real-world settings, including the impact of the new evaluation metrics on diagnosis, disease management, and patient outcomes.
 
-## References
-S. He, "A Study of Cuffless Blood Pressure Estimation," Ph.D. proposal, Dept. Electrical and Computer Engineering, Univ. Ottawa, Ottawa, Canada, 2023.
 
-S. He and M. Bolic, "Novel Metrics for Tracking Blood Pressure Changes in Continuous Cuffless Blood Pressure Estimations," Scientific Reports, vol. 14, no. 27478, pp. 1-14, 2024. doi: 10.1038/s41598-024-77171-6.
+<div class="content-container">
+  <h2>Motivation</h2>
+
+  <!-- Section: Papers -->
+  <section id="publications">
+    <h2>Research Papers</h2>
+    <div class="paper-grid">
+      {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
+      {% for paper in topic_papers %}
+        <div class="paper-card">
+          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
+            <h3>{{ paper.title }}</h3>
+            <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
+            <a href="{{ paper.url }}" class="btn">Read More</a>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Section: Researchers -->
+<section id="people">
+  <h2>Researchers</h2>
+  <div class="researcher-grid">
+    {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "active" %}
+    {% for researcher in field_researchers %}
+      <div class="researcher-card">
+        <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} ">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="alumni-researchers">
+  <h2>Alumni Researchers</h2>
+  <div class="researcher-grid">
+    {% assign alumni_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "alumni" %}
+    {% for researcher in alumni_researchers %}
+      <div class="researcher-card">
+        <h3>{{ researcher.name }}</h3>
+        <p>{{ researcher.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+</div>

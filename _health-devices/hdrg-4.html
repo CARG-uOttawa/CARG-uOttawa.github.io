@@ -2,7 +2,7 @@
 title: "CARG Health Devices: <br/>Emotion Recognition"
 excerpt: "Machine learning and signal processing for emotion recognition  <br/><img src='/images/500x300.png'>"
 collection: health-devices
-papertopic: AI
+papertopic: Emotions
 author_profile: true
 layout: archive
 ---
@@ -35,9 +35,8 @@ layout: archive
     {% assign field_researchers = site.people | where_exp: "item", "item.field contains page.papertopic" | where: "status", "active" %}
     {% for researcher in field_researchers %}
       <div class="researcher-card">
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: 150px;"></a>
         <img width="100" src="{{site.baseurl}}/images/people/{{researcher.avatar}}" alt="{{ researcher.name }} ">
-        <h3>{{ researcher.name }}</h3>
-        <p>{{ researcher.bio }}</p>
       </div>
     {% endfor %}
   </div>
