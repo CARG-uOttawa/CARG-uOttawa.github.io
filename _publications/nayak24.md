@@ -8,8 +8,8 @@ date: 11 October 2024
 venue: 'IEEE Open Journal of Instrumentation & Measurement'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714465'
-citation: 'A. Nayak and M. Bolic, "Smartphone System for Heart Rate and Breathing Rate Estimation," in IEEE Open Journal of Instrumentation and Measurement, vol. 3, pp. 1-4, 2024, Art no. 4000204, doi: 10.1109/OJIM.2024.3477572.'
-papertopic: ["Emotion Recognition", "AI"]
+citation: 'A. Nayak and M. Bolic, Smartphone System for Heart Rate and Breathing Rate Estimation, in IEEE Open Journal of Instrumentation and Measurement, vol. 3, pp. 1-4, 2024, Art no. 4000204, doi: 10.1109/OJIM.2024.3477572.'
+papertopic: ["Emotion", "AI"]
 author: "A. Nayak, et al."
 image: /images/bio-photo-2.jpg
 ---

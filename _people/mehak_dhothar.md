@@ -1,9 +1,13 @@
 ---
 name: Mehak Dhothar
-position: Masters Student
-avatar:
+position: gradstudent
+avatar: mehak_dhothar_image.png
 twitter:
 joined: 2023
+field: ["Emotions"]
+status: "active"
+author_profile: true
+layout: archive
 title: Mehak Dhothar
 ---
 
@@ -24,10 +28,3 @@ Mehak is a Master's student at the University of Ottawa, supervised by Dr. Miodr
 
 ### Research Interests
 Currently a Master's student in Electrical and Computer Engineering with Concentration in Applied Artificial Intelligence, Mehak is guided by Dr. Miodrag Bolic. Her research focuses on recognition of human emotions through physiological signals from wearable devices.  She is particularly interested in the integration of machine learning and signal processing techniques for advancing health applications.
-
-
-
-
-
-
-

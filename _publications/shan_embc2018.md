@@ -6,7 +6,6 @@ permalink: /publication/shan_embc2018
 excerpt: 'This paper developed a new capacitive BCG wristband to monitor cardiac activity.'
 date: 2018-7-17
 venue: '2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
-
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8513339'
 citation: 'S. He, X. Li, I. Batkin, H. R. Dajani and M. Bolic, "Detecting Cardiac Activity by Capacitive Electrodes from a Single Point on the Wrist," 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, USA, 2018, pp. 3809-3812, doi: 10.1109/EMBC.2018.8513339'
 ---

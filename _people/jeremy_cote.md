@@ -5,6 +5,8 @@ avatar: jeremy_cote_photo.jpeg
 joined: 2020
 author_profile: true
 layout: archive
+field: ["MachineLearning"]
+status: "active"
 title: Jeremy Côté
 ---
 

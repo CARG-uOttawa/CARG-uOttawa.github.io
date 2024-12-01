@@ -6,7 +6,6 @@ permalink: /publication/shan_embc2020
 excerpt: 'This paper introduces a novel method to locate subjects using a depth camera to improve respiration monitoring with radars'
 date: 2020-7-20
 venue: '2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
-
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9175754'
 citation: 'S. He, V. Mehta and M. Bolic, "A Joint Localization Assisted Respiratory Rate Estimation using IR-UWB Radars," 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Montreal, QC, Canada, 2020, pp. 489-493, doi: 10.1109/EMBC44109.2020.9175754.'
 ---

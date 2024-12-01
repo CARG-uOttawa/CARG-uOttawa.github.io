@@ -6,6 +6,8 @@ twitter:
 joined: 2023
 title: Meng Lian
 author_profile: true
+status: "active"
+field: ["CUAS"]
 layout: archive
 ---
 

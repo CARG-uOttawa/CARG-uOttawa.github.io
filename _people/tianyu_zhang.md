@@ -1,9 +1,13 @@
 ---
 name: Tianyu Zhang
 position: gradstudent
-avatar:
+avatar: tianyu_photo.JPG
 twitter:
 joined: 2021
+field: ["JVP"]
+status: "active"
+author_profile: true
+layout: archive
 title: Tianyu Zhang
 ---
 

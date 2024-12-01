@@ -6,7 +6,6 @@ permalink: /publication/shan_embc2021
 excerpt: 'This paper introduces a novel method to estimate blood pressure for a new subject with very limited calibration measurements.'
 date: 2021-11-1
 venue: '2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
-
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9629594'
 citation: 'S. He, H. R. Dajani and M. Bolic, "Novel Cuffless Blood Pressure Estimation Method Using a Bayesian Hierarchical Model," 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021, pp. 898-901, doi: 10.1109/EMBC46164.2021.9629594.'
 ---
