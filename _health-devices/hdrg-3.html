@@ -19,7 +19,7 @@ layout: archive
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1;
+            line-height: 1.6;
             margin: 20px;
             color: #333;
         }
@@ -28,11 +28,14 @@ layout: archive
             margin: 0 auto;
         }
         .motivation {
-            overflow: hidden; /* Clears float for containing block */
+            display: flex; /* Align items side by side */
+            align-items: flex-start; /* Align items at the top */
+        }
+        .motivation-text {
+            flex: 1; /* Text takes up available space */
         }
         .motivation-image {
-            float: right; /* Positions the image to the right */
-            margin-left: 20px; /* Adds space between the image and the text */
+            margin-left: 20px; /* Add space between text and image */
         }
         .motivation-image img {
             max-width: 200px;
