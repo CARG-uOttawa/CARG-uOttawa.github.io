@@ -5,6 +5,8 @@ avatar: Cristovao_iglesias.png
 twitter:
 joined: 2020
 title: Cristovão Freitas Iglesias Junior
+status: "active"
+field: ["Bioreactor"]
 author_profile: true
 layout: archive
 ---

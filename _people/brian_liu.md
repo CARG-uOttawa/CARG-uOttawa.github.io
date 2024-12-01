@@ -6,6 +6,8 @@ twitter:
 joined: 2024
 title: Brian Liu
 author_profile: true
+status: "active"
+field: ["AI4LUAV"]
 layout: archive
 ---
 

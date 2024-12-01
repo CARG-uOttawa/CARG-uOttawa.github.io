@@ -6,6 +6,8 @@ twitter:
 joined: 2021
 title: Hamid Azad
 author_profile: true
+status: "active"
+field: ["AI4LUAV", "CUAS"]
 layout: archive
 ---
 
