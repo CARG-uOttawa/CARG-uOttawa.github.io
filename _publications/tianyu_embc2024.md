@@ -8,7 +8,7 @@ date: 2024-04-30
 venue: 'EMBC 2024'
 papertopic: ["JVP"]
 slidesurl: /files/tianyu_embc2024.pptx
-paperurl: /files/tianyu_embc2024.pdf
+paperurl:
 author: 'Zhang T., et al.'
 citation: 'T. Zhang, et al., Non-Contact Heart Rate and Respiratory Rate Estimation from Videos of the Neck, accepted for presentation at the 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, 2024.'
 ieee_citation: T. Zhang, et al., Non-Contact Heart Rate and Respiratory Rate Estimation from Videos of the Neck, accepted for presentation at the 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, 2024.
