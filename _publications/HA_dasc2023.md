@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 papertopic: [CAUS]
 permalink: /publication/HA_dasc2023
-slidesurl: /files/HA_dasc2023.pptx
+slidesurl: '/files/HA_dasc2023.pptx'
 excerpt: 'This paper presents a comprehensive multi-view air-to-air simulated vision drone dataset.'
 date: 2023-10-01
 venue: '2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)'
-paperurl: /files/HA_dasc2023.pdf
+paperurl: '/files/HA_dasc2023.pdf'
 author: 'Azad, H, Mehta, V, Dadboud, F, Bolic, M, Mantegh, I'
 citation: 'H. Azad, V. Mehta, F. Dadboud, M. Bolic and I. Mantegh, Air-to-Air Simulated Drone Dataset for AI-powered problems, 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC), Barcelona, Spain, 2023, pp. 1-7, doi: 10.1109/DASC58513.2023.10311339.'
 ieee_citation: 'H. Azad, V. Mehta, F. Dadboud, M. Bolic, I. Mantegh, 'Air-to-Air Simulated Drone Dataset for AI-powered problems,' 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC), pp. 1--7, 2023.'

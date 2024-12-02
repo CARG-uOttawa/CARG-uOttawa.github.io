@@ -2,7 +2,7 @@
 title: "An Attention based Complex-valued Convolutional Autoencoder for GEO SA-Bi SAR Ship Target Refocusing"
 collection: publications
 category: conferences
-papertopic: [CAUS]
+papertopic:
 permalink: /publication/sas23
 excerpt: 'This paper is about deep learning approaches for radar image refocusing.'
 date: 2023-09-22
