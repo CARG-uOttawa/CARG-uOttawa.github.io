@@ -7,6 +7,7 @@ excerpt: 'This paper introduces a new novel evaluation metric for cuffless blood
 date: 11 November 2024
 venue: 'Nature Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-024-77171-6'
+papertopic: ["BloodPressure"]
 citation: 'He, S., & Bolić, M. (2024). Novel metrics for tracking blood pressure changes incontinuous cuffless blood pressure estimations. Scientific Reports, 14(1), 27478.'
 ---
 

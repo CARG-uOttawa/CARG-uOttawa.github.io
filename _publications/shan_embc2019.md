@@ -7,6 +7,7 @@ excerpt: 'This paper introduces a new time interval from BCG and ECG waveforms f
 date: 2019-7-23
 venue: '2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8856332'
+papertopic: ["BloodPressure"]
 citation: 'S. He, H. R. Dajani, R. D. Meade, G. P. Kenny and M. Bolic, "Continuous Tracking of Changes in Systolic Blood Pressure using BCG and ECG," 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Berlin, Germany, 2019, pp. 6826-6829, doi: 10.1109/EMBC.2019.8856332'
 ---
 
