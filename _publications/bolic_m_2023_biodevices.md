@@ -7,7 +7,7 @@ permalink: /publication/bolic_m_2023_biodevices
 excerpt: 'Evaluates the effects of skin color on the accuracy of oxygen saturation estimates.'
 date: 2023-02-28
 venue: 'BIODEVICES'
-slidesurl: ''
+slidesurl:
 paperurl: 'https://www.scitepress.org/Papers/2023/117493/117493.pdf'
 author: 'Bolic, M'
 image: ''

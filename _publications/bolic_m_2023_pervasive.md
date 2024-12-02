@@ -7,7 +7,7 @@ permalink: /publication/bolic_m_2023_pervasive
 excerpt: 'The book about modeling and simulation of biomedical devices.'
 date: 2023-01-01
 venue: 'Elsevier'
-slidesurl: ''
+slidesurl:
 paperurl: 'https://shop.elsevier.com/books/pervasive-cardiovascular-and-respiratory-monitoring-devices/bolic/978-0-12-820947-9'
 author: 'Bolic, M'
 image: 'https://shop.elsevier.com/images/elsevier-logo.svg'
