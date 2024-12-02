@@ -42,6 +42,19 @@ layout: archive
     {% continue %}
   {% endif %}
 
+  <!-- Additional check to skip empty roles with no valid profiles -->
+{% assign valid_profiles = false %}
+{% for profile in people_in_role %}
+  {% if profile.field contains page.papertopic %}
+    {% assign valid_profiles = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if valid_profiles == false %}
+  {% continue %}
+{% endif %}
+
   <div class="pos_header">
   {% if role == 'postdoc' %}
   <h3>Postdoctoral Fellows</h3>
@@ -66,7 +79,6 @@ layout: archive
   <div class="content list people">
     {% for profile in people_sorted %}
       {% if profile.position contains role %}
-      {% if people_in_role.size > 0 %}
        {% if profile.field contains page.papertopic %}
         <div class="list-item-people">
           <p class="list-post-title">
@@ -80,7 +92,6 @@ layout: archive
         </div>
         {% endif %}
       {% endif %}
-    {% endfor %}
     {% endfor %}
   </div>
   <hr>
