@@ -12,7 +12,7 @@ paperurl: 'https://www.mdpi.com/1424-8220/24/2/653'
 author: 'Iglesias Jr, CF, Bolic, M'
 image: 'https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732615622'
 citation: 'Iglesias Jr, CF, Bolic, M. How Not to Make the Joint Extended Kalman Filter Fail with Unstructured Mechanistic Models. Sensors, 2024.'
-ieee_citation: 'C. Iglesias Jr, M. Bolic, 'How Not to Make the Joint Extended Kalman Filter Fail with Unstructured Mechanistic Models,' Sensors, vol. 24, no. 2, pp. 653, 2024.'
+ieee_citation: 'C. Iglesias Jr, M. Bolic, How Not to Make the Joint Extended Kalman Filter Fail with Unstructured Mechanistic Models, Sensors, vol. 24, no. 2, pp. 653, 2024.'
 keywords: ''
 ---
 

@@ -12,7 +12,7 @@ paperurl: 'https://www.mdpi.com/2227-9717/10/11/2180'
 author: 'Iglesias Jr, CF, Xu, X, Mehta, V, Akassou, M, Venereo-Sanchez, A, Belacel, N, Bolic, M'
 image: 'https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732615622'
 citation: 'Iglesias Jr, CF, Xu, X, Mehta, V, Akassou, M, Venereo-Sanchez, A, Belacel, N, Bolic, M. Monitoring the Recombinant Adeno-Associated Virus Production using Extended Kalman Filter. Processes, 2022.'
-ieee_citation: 'C. Iglesias Jr, X. Xu, V. Mehta, M. Akassou, A. Venereo-Sanchez, N. Belacel, M. Bolic, 'Monitoring the Recombinant Adeno-Associated Virus Production using Extended Kalman Filter,' Processes, vol. 10, no. 11, pp. 2180, 2022.'
+ieee_citation: 'C. Iglesias Jr, X. Xu, V. Mehta, M. Akassou, A. Venereo-Sanchez, N. Belacel, M. Bolic, Monitoring the Recombinant Adeno-Associated Virus Production using Extended Kalman Filter, Processes, vol. 10, no. 11, pp. 2180, 2022.'
 keywords: ''
 ---
 

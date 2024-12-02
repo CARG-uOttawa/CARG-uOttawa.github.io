@@ -12,7 +12,7 @@ paperurl: 'https://pubmed.ncbi.nlm.nih.gov/36829723/'
 author: 'Iglesias, CF, Ristovski, M, Bolic, M, Cuperlovic-Culf, M'
 image: 'https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png'
 citation: 'Iglesias, CF, Ristovski, M, Bolic, M, Cuperlovic-Culf, M. rAAV Manufacturing: The Challenges of Soft Sensing during Upstream Processing. Bioengineering, 2023.'
-ieee_citation: 'C. Iglesias, M. Ristovski, M. Bolic, M. Cuperlovic-Culf, 'rAAV Manufacturing: The Challenges of Soft Sensing during Upstream Processing,' Bioengineering, vol. 10, no. 2, pp. 229, 2023.'
+ieee_citation: 'C. Iglesias, M. Ristovski, M. Bolic, M. Cuperlovic-Culf, rAAV Manufacturing: The Challenges of Soft Sensing during Upstream Processing, Bioengineering, vol. 10, no. 2, pp. 229, 2023.'
 keywords: ''
 ---
 
