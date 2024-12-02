@@ -14,8 +14,11 @@ author_profile: true
 {% include base_path %}
 
 <h2>Current projects</h2>
-<br />
+Here is the list of the current projects:
+</body>
+{% include base_path %}
+
+{% assign ordered_pages = site.ai4uav | sort:"order_number" %}
 {% for post in site.ai4uav %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-</body>
