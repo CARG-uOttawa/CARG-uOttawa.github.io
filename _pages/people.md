@@ -4,7 +4,12 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
+<ul>
+  <li><a href="#active-researchers">Active Researchers</a></li>
+  <li><a href="#alumni">Alumni</a></li>
+</ul>
 
+<h2 id="active-researchers">Active Researchers</h2>
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|projectstudent|collaborators|alumni" | split: "|" %}
 
@@ -33,7 +38,7 @@ author_profile: true
 {% elsif role == 'projectstudent' %}
 <h3>M.Eng. and Undergrad Project Students</h3>
  {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
+<h3 id="alumni">Alumni</h3>
 {% endif %}
 </div>
 
@@ -60,9 +65,6 @@ author_profile: true
 
 <br>
 
-| Who are they | When were they here |Research Topic| Where they went |
-| :------------- |:-------------| :-----------|
-| [Daniel Shapiro](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | M.Sc.student (2010-2012), Ph.D. student (2012-2018) | | Lemay.ai |
 
 | Name | Period | Status | Topic | Currently at |
 |------|--------|--------|-------|--------------|
@@ -73,7 +75,7 @@ author_profile: true
 | [Varunkumar Mehta](https://www.linkedin.com/in/varun-mehta-b9b669a) | 2019-2022 | PostDoc | Machine learning and signal processing for breathing rate estimation and for drone tracking |
 | [Somaiyeh Khodadadi](https://ir.linkedin.com/in/somaiyeh-khodadadi-karimvand-b62b1174) | 2022-2023 | PostDoc | AAV process modeling |
 | [HamidReza Sadreazami](https://ca.linkedin.com/in/hamidreza-sadreazami-56baa747) | 2017-2019 | PostDoc | Fall detection using radars |
-| [Daniel Shapiro](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | 2018-2019 | PostDoc | Multi-Microphone Signal Processing and Machine Learning |
+| [Daniel Shapiro](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | 2018-2019 | PostDoc | Multi-Microphone Signal Processing and Machine Learning |  Lemay.ai |
 | [Isar Nejadgholi](https://ca.linkedin.com/in/isarnejad) | 2013-2016 | PostDoc | Radar signal processing and classification |
 | [Parisa Pouladzadeh](https://ca.linkedin.com/in/parisa-pouladzadeh-408a3437) | 2016-2016 | PostDoc | Processing video signal to detect obstructive sleep apnea |
 | [Mohammad Forouzanfar](https://www.linkedin.com/pub/dir/Mohammad/Forouzanfar) | 2014-2014 | PostDoc | Classification of the human actions and breathing using CW radars |
@@ -121,3 +123,9 @@ author_profile: true
 
 {% endif %}
 {% endfor %}
+
+
+
+<h3>M. Eng. students</h3>
+
+<h3>Collaborators</h3>
