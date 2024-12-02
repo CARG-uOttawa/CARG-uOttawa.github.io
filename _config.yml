@@ -79,9 +79,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Journal Articles Since 2018'
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers Since 2018'
   patents:
     title: 'Patents'
 
