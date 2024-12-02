@@ -20,9 +20,8 @@ This is an item in your portfolio. It can be have images or nice text. If you na
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
-            <h3>{{ paper.title }}</h3>
-            <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
+            <dl><dt>{{ paper.citation }}</dt>
+            <dd>- <em>Description</em>: {{ paper.excerpt }}</dd> </dl>
             <a href="{{ paper.url }}" class="btn">Read More</a>
         </div>
       {% endfor %}
