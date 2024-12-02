@@ -10,7 +10,7 @@ The Health Devices Research Group (HDRG) at the University of Ottawa, was formed
 
 For the description of completed projects, please go to [Completed projects](https://carg-uottawa.github.io/year-archive/)
 
-Here is the list of the current projects:
+Here is the list of current projects:
 
 {% include base_path %}
 
