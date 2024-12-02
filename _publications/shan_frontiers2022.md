@@ -10,7 +10,7 @@ author: 'He, S., Han, Z., Iglesias, C., Mehta, V., Bolic, M.'
 paperurl: 'https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2022.799621/full'
 papertopic: ["RadarBreathing"]
 citation: 'He, S., Han, Z., Iglesias, C., Mehta, V. and Bolic, M., 2022. A real-time respiration monitoring and classification system using a depth camera and radars. Frontiers in Physiology, 13, p.799621.'
-ieee_citation: 'S. He, Z. Han, C. Iglesias, V. Mehta, M. Bolic, 'A Real-Time Respiration Monitoring and Classification System using a Depth Camera and Radars,' Frontiers in Physiology, pp. 352, 2022.'
+ieee_citation: 'S. He, Z. Han, C. Iglesias, V. Mehta, M. Bolic, A Real-Time Respiration Monitoring and Classification System using a Depth Camera and Radars, Frontiers in Physiology, pp. 352, 2022.'
 keywords: ''
 ---
 
