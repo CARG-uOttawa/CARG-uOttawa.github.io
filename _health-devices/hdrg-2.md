@@ -1,13 +1,19 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "CARG Health Devices: <br/>Contactless Estimation of Vital Signs"
+excerpt: "Radar-based signal processing and machine learning for detecting activities and falls and estimating vital signs. <br/><img src='/images/radar_system.png'>"
 collection: health-devices
 papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+## Monitoring elderly people in nursing homes
+
+We will develop and test a contactless monitoring system intended for use by healthcare professionals for continuous monitoring of resident’s activity and breathing patterns as well as fall detection in assisted living facilities and retirement homes. The key benefit of our system is to allow for continuous monitoring without any impact on residents’ daily routines. Monitoring without any requirement for compliance by the residents or any additional burden to the nursing staff will allow us to collect a large number of data that will lead towards in-depth understanding of the activities and needs of the residents.
+
+## Classifying breathing patterns of heart failure patients
+
+The objectives of the primary phase of this study are to develop and verify algorithms for estimating breathing patterns of each patient and for reliable prediction of decompensating congestive heart failure (CHF). By the end of this project, we will be able to demonstrate the ability of our technology to continuously monitor CHF patients. The key requirement is that the system be unobtrusive yet capable of continuous, accurate monitoring over distances of several meters. Initially, our prototype will be assessed in a hospital setting so as to corroborate data fidelity with currently available medical telemetry, now considered the gold standard. The eventual goal is to create a system capable of monitoring patients at home and relaying physiological alerts to care providers or emergency services in the community.
 
 
 <div class="content-container">

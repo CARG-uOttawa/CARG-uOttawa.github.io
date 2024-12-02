@@ -5,6 +5,7 @@ avatar: nathan_bowness_image.JPG
 twitter:
 joined: 2024
 title: Nathan Bowness
+field: ["AI4LUAV"]
 author_profile: true
 layout: archive
 ---

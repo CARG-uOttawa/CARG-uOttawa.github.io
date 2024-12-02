@@ -5,6 +5,7 @@ avatar:
 twitter:
 joined: 2024
 author_profile: true
+field: ["CUAS", "UAVSim"]
 layout: archive
 ---
 

@@ -7,7 +7,7 @@ joined: 2021
 title: Hamid Azad
 author_profile: true
 status: "active"
-field: ["AI4LUAV", "CUAS"]
+field: ["AI4LUAV", "CUAS", "UAV5G", "UAVSim"]
 layout: archive
 ---
 

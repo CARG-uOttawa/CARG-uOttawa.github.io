@@ -4,6 +4,7 @@ position: collaborators
 avatar: VarunkumarMehta.JPG
 joined:
 author_profile: true
+field: ["CUAS", "AI4LUAV"]
 layout: archive
 ---
 
