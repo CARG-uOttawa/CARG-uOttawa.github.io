@@ -38,8 +38,6 @@ The potential future research directions based on the findings and contributions
 
 
 <div class="content-container">
-  <h2>Motivation</h2>
-
   <!-- Section: Papers -->
   <section id="publications">
     <h2>Research Papers</h2>
@@ -47,8 +45,8 @@ The potential future research directions based on the findings and contributions
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-            <h3>{{ paper.citation }}</h3>
-            <p> {{ paper.excerpt }}</p>
+            <dl><dt>{{ paper.citation }}</dt>
+            <dd> {{ paper.excerpt }}</dd> </dl>
             <a href="{{ paper.url }}" class="btn">Read More</a>
         </div>
       {% endfor %}
