@@ -20,7 +20,7 @@ The motivation behind developing cuffless blood pressure (BP) estimation techniq
 
 Despite the development of cuffless BP estimation techniques, there are still key challenges preventing widespread adoption. These include the need for improved model generalization, adaptation to new subjects, time-series analysis for more reliable long-term tracking, and uncertainty quantification to ensure reliability in real-world applications. Additionally, current evaluation protocols for cuffless BP devices are inadequate, as they mainly use distance-based metrics that fail to capture the models' ability to accurately track BP changes over time.
 
-## Our Current Research
+## Our Current Research {#research}
 The current research focuses on enhancing cuffless BP estimation through comprehensive end-to-end frameworks. A key component of this research is the review and identification of limitations in existing methods:
 
 * Adaptation and Calibration: Existing cuffless BP models generally train and test on the same datasets, limiting their generalizability to new subjects or different datasets. There is a need to explore model adaptation for personalized BP estimation when different devices are used.
@@ -31,7 +31,7 @@ The current research focuses on enhancing cuffless BP estimation through compreh
 
 * Novel Evaluation Metrics: Existing performance metrics for cuffless BP evaluation are insufficient for tracking BP changes. The research proposes new evaluation metrics that incorporate both distance and trend similarity to more accurately reflect a model's performance in tracking BP variations. These metrics are intended to ensure that models can handle the real-world variability seen in BP patterns and provide better clinical utility.
 
-## Our Research Directions
+## Our Research Directions {#directions}
 The potential future research directions based on the findings and contributions of these studies are:
 
 * Advanced Personalization Techniques: Exploring more sophisticated adaptation and personalization techniques, such as meta-learning and domain adaptation, to improve the accuracy of BP monitoring across diverse populations and devices.
@@ -59,6 +59,7 @@ The potential future research directions based on the findings and contributions
     </div>
   </section>
 
+<section id="researchers">
   <h2>Researchers</h2>
   {% assign people_sorted = site.people | sort: 'joined' %}
   {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|projectstudent|collaborators|alumni" | split: "|" %}
@@ -126,6 +127,7 @@ The potential future research directions based on the findings and contributions
   </div>
   <hr>
   {% endfor %}
+</section>
 
   <h2>External Collaborators</h2>
   <h2>Alumni</h2>
