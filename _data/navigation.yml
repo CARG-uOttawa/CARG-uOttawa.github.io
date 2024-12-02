@@ -11,8 +11,8 @@ main:
   - title: "CARG Health Devices"
     url: /health-devices/
 
-  - title: "CARG UAVs"
-    url: /uav/
+  - title: "CARG AI4UAV"
+    url: /ai4uav/
 
   - title: "People"
     url: /people/
