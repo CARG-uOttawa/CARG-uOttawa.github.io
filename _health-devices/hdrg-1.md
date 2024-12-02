@@ -47,9 +47,8 @@ The potential future research directions based on the findings and contributions
       {% assign topic_papers = site.publications | where_exp: "item", "item.papertopic contains page.papertopic" %}
       {% for paper in topic_papers %}
         <div class="paper-card">
-          <img width="100" src="{{ paper.image }}" alt="{{ paper.title }}">
-            <h3>{{ paper.title }}</h3>
-            <p>By {{ paper.author }} ({{ paper.date | date: "%Y-%m-%d" }})</p>
+            <h3>{{ paper.citation }}</h3>
+            <p> {{ paper.excerpt }}</p>
             <a href="{{ paper.url }}" class="btn">Read More</a>
         </div>
       {% endfor %}
@@ -123,6 +122,6 @@ The potential future research directions based on the findings and contributions
   </div>
   <hr>
   {% endfor %}
-  
+
   <h2>External Collaborators</h2>
   <h2>Alumni</h2>
