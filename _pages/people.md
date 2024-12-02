@@ -7,6 +7,13 @@ author_profile: true
 <ul>
   <li><a href="#active-researchers">Active Researchers</a></li>
   <li><a href="#alumni">Alumni</a></li>
+  <ul>
+  <li><a href="#alumnigrad">CARG Graduates Alumni</a></li>
+  <li><a href="#meng">M. Eng. Alumni</a></li>
+  <li><a href="#undergrads">Undergraduate Alumni</a></li>
+  </ul>
+  <li><a href="#collab"> Academic Collaborators</a></li>
+  <li><a href="#partners"> Industrial Partners</a></li>
 </ul>
 
 <h2 id="active-researchers">Active Researchers</h2>
@@ -38,7 +45,7 @@ author_profile: true
 {% elsif role == 'projectstudent' %}
 <h3>M.Eng. and Undergrad Project Students</h3>
  {% elsif role == 'alumni' %}
-<h3 id="alumni">Alumni</h3>
+<h2 id="alumni">Alumni</h2>
 {% endif %}
 </div>
 
@@ -49,9 +56,9 @@ author_profile: true
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: 150px;"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: 750px;"></a>
           {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" style="width: 150px;"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" style="width: 750px;"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
@@ -65,6 +72,7 @@ author_profile: true
 
 <br>
 
+<h3 id="alumnigrad">CARG Graduates Alumni </h3>
 
 | Name | Period | Status | Topic | Currently at |
 |------|--------|--------|-------|--------------|
@@ -126,6 +134,11 @@ author_profile: true
 
 
 
-<h3>M. Eng. students</h3>
 
-<h3>Collaborators</h3>
+<h3 id="meng">M. Eng. Alumni</h3>
+
+<h3 id="undergrads">Undergraduate Alumni</h3>
+
+<h2 id="collab"> Academic Collaborators</h2>
+
+<h2 id="partners"> Industrial Partners</h2>
