@@ -17,5 +17,5 @@ Here is the list of the current projects:
 {% assign ordered_pages = site.health-devices | sort:"order_number" %}
 
 {% for post in site.health-devices %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single.html  %}
 {% endfor %}
