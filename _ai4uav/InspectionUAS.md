@@ -1,6 +1,6 @@
 ---
-title: "CARG AI4UAAV: BVLoS Flights for infrastructure inspection"
-excerpt: "Obstacle detection and avoidance <br/><img src='/images/BVLoSProjectOverview.jpg'>"
+title: "CARG AI4UAV: Obstacle detection and avoidance"
+excerpt: "BVLoS Flights for infrastructure inspection <br/><img src='/images/BVLoSProjectOverview.jpg'>"
 collection: AI4UAV
 papertopic: AI4LUAV
 author_profile: true
