@@ -3,11 +3,13 @@ title: "DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data,
 collection: publications
 category: conferences
 permalink: /publication/DrIFT
+papertopic: [CUAS]
 excerpt: 'This paper is about studying drone detection under different types of domain shift.'
 date: 2025-02-28
+author: 'Fardad Dadboud, Hamid Azad, Varun Mehta, Miodrag Bolic, Iraj Mantegh'
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025'
 slidesurl: ''
-paperurl: ''
+paperurl: /files/WACV2025_DrIFT.pdf
 citation: ''
 ---
 
