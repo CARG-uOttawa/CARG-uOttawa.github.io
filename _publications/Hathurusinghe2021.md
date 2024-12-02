@@ -5,7 +5,7 @@ category: conferences
 papertopic: ["Gen"]
 permalink: /publication/Hathurusinghe2021
 excerpt: 'A collaborative training of NER models through federated learning.'
-date: 2021
+date: 2021-01-01
 venue: 'Proceedings of the Third Workshop on Privacy in Natural Language Processing (PrivateNLP 2021)'
 slidesurl:
 paperurl: 'https://aclanthology.org/2021.privatenlp-1.5'
