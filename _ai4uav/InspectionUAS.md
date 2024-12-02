@@ -2,6 +2,9 @@
 title: "CARG AI4UAAV: BVLoS Flights for infrastructure inspection"
 excerpt: "Obstacle detection and avoidance <br/><img src='/images/BVLoSProjectOverview.jpg'>"
 collection: AI4UAV
+papertopic: AI4LUAV
+author_profile: true
+layout: archive
 ---
 ##BVLOS Inspection of critical logistics infra- and superstructures using coordinated multiple UAS
 
