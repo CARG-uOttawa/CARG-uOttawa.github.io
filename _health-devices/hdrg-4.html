@@ -64,9 +64,9 @@ layout: archive
 
 
   <div class="content list people">
-    {% if people_in_role.size > 0 %}
     {% for profile in people_sorted %}
       {% if profile.position contains role %}
+      {% if people_in_role.size > 0 %}
        {% if profile.field contains page.papertopic %}
         <div class="list-item-people">
           <p class="list-post-title">
@@ -87,5 +87,4 @@ layout: archive
 {% endfor %}
 
 <h2>External Collaborators</h2>
-
 <h2>Alumni</h2>
