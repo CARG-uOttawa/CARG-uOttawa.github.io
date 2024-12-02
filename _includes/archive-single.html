@@ -53,13 +53,13 @@
     {% endif %}
 
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Cite as: {{ post.ieee_citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p><br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Cite as: {{ post.ieee_citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p><br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.slidesurl %}
-      <p>Cite as: {{ post.ieee_citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p><br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation %}
-      <p>Cite as: {{ post.ieee_citation }}</p>
+      <p></p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.slidesurl %}
