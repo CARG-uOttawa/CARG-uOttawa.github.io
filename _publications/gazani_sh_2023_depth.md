@@ -11,8 +11,8 @@ slidesurl:
 paperurl: 'https://arxiv.org/abs/2304.12542'
 author: 'Gazani, SH, Dadboud, F, Bolic, M, Mantegh, I, Najjaran, H'
 image:
-citation: 'S. H. Gazani, F. Dadboud, M. Bolic, I. Mantegh and H. Najjaran,"Object Semantics Give Us the Depth We Need: Multi-Task Approach to Aerial Depth Completion, 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 2565-2570, doi: 10.1109/SMC53992.2023.10393905.'
-ieee_citation: 'S. Gazani, F. Dadboud, M. Bolic, I. Mantegh, H. Najjaran,'Object Semantics Give Us the Depth We Need: Multi-task Approach to Aerial Depth Completion' arXiv preprint arXiv:2304.12542, 2023.'
+citation: 'S. H. Gazani, F. Dadboud, M. Bolic, I. Mantegh and H. Najjaran, Object Semantics Give Us the Depth We Need: Multi-Task Approach to Aerial Depth Completion, 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 2565-2570, doi: 10.1109/SMC53992.2023.10393905.'
+ieee_citation: 'S. Gazani, F. Dadboud, M. Bolic, I. Mantegh, H. Najjaran,Object Semantics Give Us the Depth We Need: Multi-task Approach to Aerial Depth Completion, arXiv preprint arXiv:2304.12542, 2023.'
 keywords: ''
 ---
 
