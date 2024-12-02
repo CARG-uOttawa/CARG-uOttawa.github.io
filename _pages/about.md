@@ -38,6 +38,7 @@ Coordinator Contact: Miodrag Bolic, [email address](mailto:mbolic@uottawa.ca)
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
+    >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and site.announcements.limit %}
@@ -55,6 +56,9 @@ Coordinator Contact: Miodrag Bolic, [email address](mailto:mbolic@uottawa.ca)
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                 {% if item.summary != blank %}
                   <p class="news-summary">{{ item.summary }}</p>
+                {% endif %}
+                {% if item.tags != blank %}
+                  <p class="news-tags">Tags: {{ item.tags | join: ', ' }}</p>
                 {% endif %}
               {% endif %}
             </td>
