@@ -7,6 +7,7 @@ excerpt: 'This paper introduces an indoor respiratory monitoring system for mult
 date: 9 March 2022
 venue: 'Frontiers in Physiology'
 paperurl: 'https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2022.799621/full'
+papertopic: ["RadarBreathing"]
 citation: 'He, S., Han, Z., Iglesias, C., Mehta, V. and Bolic, M., 2022. A real-time respiration monitoring and classification system using a depth camera and radars. Frontiers in Physiology, 13, p.799621.'
 ---
 

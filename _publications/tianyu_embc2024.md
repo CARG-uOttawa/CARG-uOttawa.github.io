@@ -6,6 +6,7 @@ permalink: /publication/tianyu_embc2024
 excerpt: 'This paper is about novel estimation of vital signs from videos.'
 date: 2024-04-30
 venue: 'EMBC 2024'
+papertopic: ["Emotions"]
 slidesurl: 'http://academicpages.github.io/files/tianyu_embc2024.pptx'
 paperurl: 'https://carg-uottawa.github.io/publication/tianyu_embc2024.pdf'
 citation: ''

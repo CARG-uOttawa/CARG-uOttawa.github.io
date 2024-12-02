@@ -7,6 +7,7 @@ excerpt: 'This paper introduces a new remote vital sign monitoring system using 
 date: 14 January 2022
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/22/2/627'
+papertopic: ["Contactless"]
 citation: 'Yang, F., He, S., Sadanand, S., Yusuf, A., & Bolic, M. (2022). Contactless Measurement of Vital Signs Using Thermal and RGB Cameras: A Study of COVID 19-Related Health Monitoring. Sensors, 22(2), 627. https://doi.org/10.3390/s22020627'
 ---
 

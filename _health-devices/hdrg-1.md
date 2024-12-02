@@ -46,7 +46,7 @@ The potential future research directions based on the findings and contributions
       {% for paper in topic_papers %}
         <div class="paper-card">
             <dl><dt>{{ paper.citation }}</dt>
-            <dd> {{ paper.excerpt }}</dd> </dl>
+            <dd>- Description:{{ paper.excerpt }}</dd> </dl>
             <a href="{{ paper.url }}" class="btn">Read More</a>
         </div>
       {% endfor %}
