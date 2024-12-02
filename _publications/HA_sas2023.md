@@ -3,8 +3,8 @@ title: "Simulated Dataset for the Loaded vs. Unloaded UAV Classification Problem
 collection: publications
 category: conferences
 permalink: /publication/iglesias24
-slidesurl: '/files/HA_sas2023.pptx'
-paperurl: '/files/HA_sas2023.pdf'
+slidesurl: /files/HA_sas2023.pptx
+paperurl: /files/HA_sas2023.pdf
 author: 'Azad, H, Mehta, V, Bolic, M, Mantegh, I'
 excerpt: 'This paper introduces the first published vision dataset for the loaded vs. unloaded UAV classification problem.'
 date: 2023-05-18
