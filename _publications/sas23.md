@@ -7,9 +7,11 @@ permalink: /publication/sas23
 excerpt: 'This paper is about deep learning approaches for radar image refocusing.'
 date: 2023-09-22
 venue: 'SAS 2023 Conference'
+author: M. Lian and M. Bolic
 slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/document/10254087'
 citation: 'M. Lian and M. Bolic, An Attention Based Complex-valued Convolutional Autoencoder for GEO SA-Bi SAR Ship Target Refocusing, 2023 IEEE Sensors Applications Symposium (SAS), Ottawa, ON, Canada, 2023, pp. 1-6, doi: 10.1109/SAS58821.2023.10254087.'
+ieee_citation: 'M. Lian and M. Bolic, An Attention Based Complex-valued Convolutional Autoencoder for GEO SA-Bi SAR Ship Target Refocusing, 2023 IEEE Sensors Applications Symposium (SAS), Ottawa, ON, Canada, 2023, pp. 1-6, doi: 10.1109/SAS58821.2023.10254087.'
 ---
 
 Since ship targets are defocused due to heave motions caused by ocean waves, and contaminated by background clutter under rough sea conditions, high-resolution (HR) ship imaging is a great challenge in a Geosynchronous spaceborne/airborne bistatic synthetic aperture radar (GEO SA-Bi SAR)

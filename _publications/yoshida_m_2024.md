@@ -11,6 +11,7 @@ slidesurl: ''
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37979504/'
 author: 'Yoshida, M, Dajani, HR, Ando, S, Shimizu, S, Bolic, M, Groza, V'
 image: 'https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png'
+author: 'Yoshida, M, Dajani, HR, Ando, S, Shimizu, S, Bolic, M, Groza, V.'
 citation: 'Yoshida, M, Dajani, HR, Ando, S, Shimizu, S, Bolic, M, Groza, V. Analysis of the effect of CPAP on hemodynamics using clinical data and a theoretical model: CPAP therapy decreases cardiac output mechanically but increases it via afterload. Sleep Medicine, 2024.'
 ieee_citation: 'M. Yoshida, H. Dajani, S. Ando, S. Shimizu, M. Bolic, V. Groza, Analysis of the effect of CPAP on hemodynamics using clinical data and a theoretical model: CPAP therapy decreases cardiac output mechanically but increases it via afterload, Sleep Medicine, vol. 113, pp. 25--33, 2024.'
 keywords: ['Heart failure', 'Hemodynamics', 'Noninvasive positive pressure ventilation']

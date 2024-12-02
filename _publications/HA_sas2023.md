@@ -2,6 +2,7 @@
 title: "Simulated Dataset for the Loaded vs. Unloaded UAV Classification Problem Using Deep Learning"
 collection: publications
 category: conferences
+papertopic: [CAUS]
 permalink: /publication/HA_sas2023
 slidesurl: /files/HA_sas2023.pptx
 paperurl: /files/HA_sas2023.pdf
