@@ -7,6 +7,12 @@ papertopic: BloodPressure
 author_profile: true
 ---
 
+- [Motivation](#motivation)
+- [Our Current Research](#research)
+- [Our Research Directions](#directions)
+- [Research Papers](#publications)
+- [Researchers](#researchers)
+
 <img width="500" src='/images/ContinousBPProcessing.png'>
 
 ## Motivation
