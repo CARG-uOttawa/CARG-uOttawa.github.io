@@ -7,12 +7,10 @@ author_profile: true
 layout: archive
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/BVLoSProjectOverview.jpg" alt="UAV projects" width="300"/>
+  <img src="/images/BioreactorKalman.png" alt="Bioreactor project" width="300"/>
 </div>
 
-The objective of this subproject is to develop ML algorithms and models that would allow for learning from heterogeneous sensor data as well as integrating traditional mathematical models with ML models. Although deep learning models allow us to model complex interactions and dynamics, they are difficult to interpret and require large labeled data sets for training. On the other hand, traditional mathematics models can be interpreted, but they are much simpler, which restricts their application. This work will allow us to benefit from the advantages of both types of models. We will develop probabilistic deep machine learning models that can include approximate dynamics of the system and utilize the traditional mathematical models and their parameters to constrain the deep learning model. In addition, the research in the field of probabilistic deep learning for time series is very new and models need to be improved and simplified to work in real-time as well as to be properly trained. The additional complexity represents the fact that we will deal with high dimensional heterogeneous sensor data from multiple sensors including oxygen input, carbon dioxide output, heating and cooling units, pH value, base addition, and agitation speed and relate these data to cell growth. Besides working on ML issues, we will also work on the software for the digital twin. The high level components/steps in designing digital twin include: building a virtual representation of the physical object, data collection, cleaning and analysis, integration of previously developed ML methods, validation of the model and uncertainty quantification.
-
-
+This research is all about improving how we monitor bioprocesses in the biopharmaceutical industry, making it faster and less expensive. The project focuses on developing advanced tools called nonlinear Kalman estimators (NKEs) to tackle these issues. Specifically, it aims to solve three big challenges: estimating important process parameters in complex biological systems, automatically tuning these estimation tools for different production conditions, and making the estimators more adaptable and accurate for different types of processes.
 
 
 <div class="content-container">

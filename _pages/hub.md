@@ -1,28 +1,33 @@
 ---
 layout: archive
-title: "CARG AI4UAV"
-permalink: /ai4uav/
+title: "CARG HUB: A Versatile Innovation Center"
+permalink: /hub/
 author_profile: true
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/AI4UAVProjects.png" alt="UAV projects" width="500"/>
+  <img src="/images/hub.png" alt="HUB projects" width="500"/>
 </div>
 
+CARG HUB serves a versatile space for both small-scale and large-scale initiatives. From solo efforts involving a single student to collaborative projects with multiple students and industry partners, CARG HUB embodies the spirit of adaptability and interdisciplinary research.
 
-Our CARG AI4UAV group at the University of Ottawa is all about developing smarter ways to detect and deal with UAVs  that could pose a threat. We are working on everything from detecting UAVs and tracking their movements to figuring out what they are carrying and understanding their intentions. To do this, we use a mix of technologies—like radar, cameras and RF, and leverage advanced machine learning to handle challenges like tracking multiple targets and identifying objects from far away.
+Recently completed projects at CARG HUB:
 
-A big part of our work is making sure our AI systems are resilient, meaning they can keep performing well even in unpredictable or previously unseen situations. We’re pushing the boundaries of resilient AI for countering drones, focusing on things like sensor fusion, payload detection, and building complex systems that work reliably. With UAVs becoming more advanced, our goal is to create adaptable solutions that can keep up with these growing capabilities and handle real-world challenges effectively.
+1. [CARG HUB: AI for bioreactors](/hub/hub-1)
+- Collaborators: NRC, Ottawa; McGill University, Montreal
+- Status: Completed in 2023
+- This project aims to leverage machine learning algorithms to predict cell growth in bioreactors, helping optimize bioprocesses for improved efficiency and yield.
 
-For the CUAS dataset that contains videos of UAVs with different backgrounds, please go to [CUAS and Power Line Datasets](http://206.12.93.58/).
+2. AI Methods for Automated Software Testing
+- Collaborator: Ericsson, Ottawa
+- Status: Completed in 2022
+- This initiative focuses on the use of artificial intelligence to create efficient, automated testing methods for software, minimizing human intervention while improving reliability.
 
-Here is the list of current projects:
+3. Federated Learning for Addressing Data Privacy Issues
+- Collaborator: IMRSV Data Labs, Ottawa
+- Status: Completed in 2021
+- This project explores federated learning as a way to address data privacy challenges, allowing models to be trained across decentralized devices without the need for centralized data storage.
 
-<section id="section2">
-
-{% include base_path %}
-{% assign ordered_pages = site.ai4uav | sort:"order_number" %}
-
-{% for post in site.ai4uav %}
-  {% include archive-single.html  type="grid" %}
-{% endfor %}
-</section>
+4. Multi-Microphone Signal Processing and Machine Learning
+- Collaborator: UCIC Toronto
+- Status: Completed in 2021
+- The project involves processing signals from multiple microphones using machine learning to enhance sound quality and recognition, contributing to advancements in communication and audio analysis systems.
