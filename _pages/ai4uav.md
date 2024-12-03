@@ -5,7 +5,7 @@ permalink: /ai4uav/
 author_profile: true
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/AI4UAVProjects.png" alt="UAV projects" width="400"/>
+  <img src="/images/AI4UAVProjects.png" alt="UAV projects" width="500"/>
 </div>
 
 

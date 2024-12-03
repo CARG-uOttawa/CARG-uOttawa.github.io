@@ -14,24 +14,27 @@ main:
   - title: "CARG AI4UAV"
     url: /ai4uav/
 
+  - title: "CARG Hub"
+    url: /Hub/
+
   - title: "People"
     url: /people/
 
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/
+  - title: "Talks"
+    url: /talks/
 
-  - title: "Teaching"
+  - title: "Course Material"
     url: /teaching/
 
 
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "News"
-    url: /year-archive/
+#  - title: "News"
+#    url: /year-archive/
 
 #  - title: "CV"
 #    url: /cv/
