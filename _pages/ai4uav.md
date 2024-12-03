@@ -5,12 +5,12 @@ permalink: /ai4uav/
 author_profile: true
 ---
 
-<h2>About Us</h2>
+## About CARG AI4UAV
 
 
-<h2>Datasets</h2>
-<br />
-<a href="http://206.12.93.58/" target="_blank"> CUAS and Power Line Datasets</a>
+## Datasets
+[CUAS and Power Line Datasets](http://206.12.93.58/)
+
 {% include base_path %}
 
 <h2>Current projects</h2>
@@ -20,5 +20,5 @@ Here is the list of current projects:
 
 {% assign ordered_pages = site.ai4uav | sort:"order_number" %}
 {% for post in site.ai4uav %}
-  {% include archive-single.html  %}
+  {% include archive-single.html  type="grid" %}
 {% endfor %}
