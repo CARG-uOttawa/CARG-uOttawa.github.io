@@ -8,7 +8,7 @@ author_profile: true
   <img src="/images/hub.png" alt="HUB projects" width="250"/>
 </div>
 
-CARG HUB serves a versatile space for both small-scale and large-scale initiatives, mainly based on different applications od machine learning and signal processing. From solo efforts involving a single student to collaborative projects with multiple students and industry partners, CARG HUB embodies the spirit of adaptability and interdisciplinary research.
+CARG HUB serves as a versatile space that supports a wide range of projects, from individual student initiatives to large-scale collaborations with industry partners or government agencies. It places a strong emphasis on the diverse applications of machine learning and signal processing. CARG HUB is a dynamic environment that promotes interdisciplinary research and innovation.
 
 Recently completed projects at CARG HUB:
 
