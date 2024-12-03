@@ -15,8 +15,10 @@ A big part of our work is making sure our AI systems are resilient, meaning they
 
 For the CUAS dataset that contains videos of UAVs with different backgrounds, please go to [CUAS and Power Line Datasets](http://206.12.93.58/).
 
-<section id="section2">
 Here is the list of current projects:
+
+<section id="section2">
+
 {% include base_path %}
 {% assign ordered_pages = site.ai4uav | sort:"order_number" %}
 
