@@ -1,0 +1,17 @@
+news:
+  directory: "_news"
+  properties:
+    layout: "post"
+    date_format: "%Y-%m-%d %H:%M:%S%z"
+    inline: true
+    related_posts: false
+
+  actions:
+    read_files: true
+    parse_front_matter: true
+    extract_content: true
+
+  output:
+    - "title"
+    - "date"
+    - "content"
