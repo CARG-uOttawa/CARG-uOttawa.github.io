@@ -4,11 +4,13 @@ title: "CARG Health Devices"
 permalink: /health-devices/
 author_profile: true
 ---
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="/images/HealthDevices.png" alt="UAV projects" width="400"/>
+</div>
 
+The CARG Health Devices Group at the University of Ottawa has been working since 2012 on advanced research in monitoring physiological signals through wearable and contactless technologies. Our focus is to create intelligent systems that can continuously, non-invasively, and unobtrusively monitor vital signs, detect falls, and track activities, especially for elderly individuals. We're making our systems effective for use by older adults and individuals with conditions such as heart failure and arteriosclerosis. Our expertise lies in biomedical instrumentation, signal processing, and machine learning.
 
-The Health Devices Research Group (HDRG) at the University of Ottawa, was formed in 2012 with the goal of performing state-of-the-art research in monitoring physiological signals based on wearable and contactless technologies. Our vision is to develop intelligent systems that perform continuous, non-invasive and unobtrusive monitoring of vital signs, detecting falls and activities of people as well as learning and distinguishing patterns that can lead to worsening of symptoms of monitored people. We currently collaborate with the Heart Institute, The Perley and Rideau Veterans' Health Centre, National Research Council and several companies in Canada with the common goals on making our systems useful to elderly people in general, as well as people with conditions such as heart failure and arteriosclerosis. Our expertise is in biomedical instrumentation, signal processing and machine learning.
-
-For the description of completed projects, please go to [Completed projects](https://carg-uottawa.github.io/year-archive/)
+We work on both contractless and wearable devices and technologies. The work on wearable devices include ECG-assisted oscillometric and BCG-assisted cuffless blood pressure monitoring. The work on contactless monitoring includes breathing and heart rate estimation and breathing pattern classification using radars, RGB, thermal and 3D cameras. 
 
 Here is the list of current projects:
 
