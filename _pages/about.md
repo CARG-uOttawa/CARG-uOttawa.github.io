@@ -2,7 +2,6 @@
 permalink: /
 title: "Welcome to CARG at the University of Ottawa"
 author_profile: true
-news: true
 redirect_from:
   - /about/
   - /about.html
@@ -16,7 +15,7 @@ The group is performing research in the following areas:
 
 It combines two subgroups:
 - [Health-Devices Research Group](https://carg-uottawa.github.io/health-devices/)
-- [UAV Research Group](https://carg-uottawa.github.io/uav/)
+- [UAV Research Group](https://carg-uottawa.github.io/ai4uav/)
 
 ### Why we chose the name CARG
 - History: this research group evolved from Computer Architecture research group (original CARG). Computer architecture research group was formed in 2008 and focused on the following topics: computer architectures, signal processing architectures, hardware and software accelerators, GPU architectures and programming and algorithmic modifications for more efficient implementation in hardware.
@@ -30,7 +29,13 @@ School of Electrical Engineering and Computer Science (EECS), University of Otta
 SITE, Room 5130  
 Coordinator Contact: Miodrag Bolic, [email address](mailto:mbolic@uottawa.ca)
 
-{% include base_path %}
-{% for post in site.news reversed %}
-  {% include news.html %}
-{% endfor %}
+
+<div id="sidebar">
+<h1>News:</h1>
+<ul>
+<li> Nov 2024: Our paper [Two Students: Enabling Uncertainty Quantification in Federated Learning Clients](https://carg-uottawa.github.io//publication/iglesias24) was accepted at NeurIPS 2024 Workshop BDU 2024 Workshop on Bayesian Decision-making and Uncertainty.</li>
+<li> Nov 2024: Our paper [Two Students: Enabling Uncertainty Quantification in Federated Learning Clients](https://carg-uottawa.github.io//publication/iglesias24) was accepted at NeurIPS 2024 Workshop BDU 2024 Workshop on Bayesian Decision-making and Uncertainty.</li>
+<li> Nov 2024: Our paper [Two Students: Enabling Uncertainty Quantification in Federated Learning Clients](https://carg-uottawa.github.io//publication/iglesias24) was accepted at NeurIPS 2024 Workshop BDU 2024 Workshop on Bayesian Decision-making and Uncertainty.</li>
+<li> October 2024:</li>
+</ul>
+</div>
