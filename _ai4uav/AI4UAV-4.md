@@ -7,7 +7,7 @@ author_profile: true
 layout: archive
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/UAVMicroDoppler.png" alt="UAV projects" width="200"/>
+  <img src="/images/UAVMicroDoppler.png" alt="UAV projects" width="300"/>
 </div>
 
 The project aims to develop the following capabilities:

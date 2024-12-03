@@ -5,7 +5,7 @@ permalink: /ai4uav/
 author_profile: true
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/AI4UAVProjects.png" alt="UAV projects" width="200"/>
+  <img src="/images/AI4UAVProjects.png" alt="UAV projects" width="400"/>
 </div>
 
 Our CARG AI4UAV group at the University of Ottawa is all about developing smarter ways to detect and deal with UAVs  that could pose a threat. We are working on everything from detecting UAVs and tracking their movements to figuring out what they are carrying and understanding their intentions. To do this, we use a mix of technologies—like radar, cameras and RF, and leverage advanced machine learning to handle challenges like tracking multiple targets and identifying objects from far away.
@@ -18,7 +18,7 @@ Here is the list of current projects:
 
 
 {% include base_path %}
-
+{% assign ordered_pages = site.ai4uav | sort:"order_number" %}
 
 {% for post in site.ai4uav %}
   {% include archive-single.html  type="grid" %}
