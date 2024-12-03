@@ -8,8 +8,7 @@ author_profile: true
 ## About CARG AI4UAV
 
 
-## Datasets
-[CUAS and Power Line Datasets](http://206.12.93.58/)
+
 
 ## Current projects
 Here is the list of current projects:
