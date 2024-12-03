@@ -11,8 +11,6 @@ author_profile: true
 ## Datasets
 [CUAS and Power Line Datasets](http://206.12.93.58/)
 
-{% include base_path %}
-
 ## Current projects 
 Here is the list of current projects:
 
