@@ -11,12 +11,12 @@ author_profile: true
 ## Datasets
 [CUAS and Power Line Datasets](http://206.12.93.58/)
 
-## Current projects 
+## Current projects
 Here is the list of current projects:
 
 {% include base_path %}
 
-{% assign ordered_pages = site.ai4uav | sort:"order_number" %}
+
 {% for post in site.ai4uav %}
   {% include archive-single.html  type="grid" %}
 {% endfor %}
