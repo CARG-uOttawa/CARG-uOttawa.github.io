@@ -6,7 +6,9 @@ papertopic: AI4LUAV
 author_profile: true
 layout: archive
 ---
-##BVLOS Inspection of critical logistics infra- and superstructures using coordinated multiple UAS
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="/images//images/BVLoSProjectOverview.jpg" alt="UAV projects" width="200"/>
+</div>
 
 The research and technical developments sought in this project will enable UAS platforms to perform inspection, monitoring, and modeling the state of critical infra and superstructure in the BVLOS (Beyond Visual Line of Sight) mode, safely from a remote location. The threat detection and collision avoidance methods will provide the critical capability for BVLOS navigation of multiple drones to and around the infrastructure.
 

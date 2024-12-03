@@ -1,13 +1,24 @@
 ---
 title: "CARG AI4UAAV: Detecting 5G-Enabled UAVs"
-excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/DroneClassification.jpg'>"
+excerpt: "Detection and Classification of 5G/LTE Unmanned Aerial Systems <br/><img src='/images/UAVMicroDoppler.png'>"
 collection: AI4UAV
 papertopic: UAV5G
 author_profile: true
 layout: archive
 ---
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="/images/UAVMicroDoppler.png" alt="UAV projects" width="200"/>
+</div>
 
-Detection and tracking of UAVs using radars poses significant challenges because small UAVs typically have a small radar cross-section, fly at lower speed, and mostly at lower altitudes compared to larger aircraft. In addition, it is a nontrivial task to distinguish these small flying objects from birds. Signature detection from birds by itself is a difficult task, as data collection, distinguishing a single bird from a flock of flying birds and distinguishing different types of birds from a distance are all challenging tasks. Until now, several attempts to detect UAVs and distinguish them from birds using various sensors have achieved only limited success. In this project, we will develop a system for automated classification of UAVs and birds using artificial intelligence algorithms. The system will be based on processing data from radar sensor and sensor fusion of radar and camera data.
+The project aims to develop the following capabilities:
+- Detecting and identifying UAS that use 5G/LTE control.
+- Obtaining UAS location information.
+- Real-time implementation of the system using 5G infrastructure and professional Graphical User Interface (GUI)  for visualizing the detected objects on the map (situation awareness).
+
+Milestones
+- Develop software and hardware architecture for the integrated system and complete the software design.
+- Simulations and Flight Data Collection
+- Integration and Tech Demonstrations
 
 
 

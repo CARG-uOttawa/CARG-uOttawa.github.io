@@ -1,14 +1,23 @@
 ---
 title: "CARG AI4UAV: Counter UAS Simulator"
-excerpt: "BVLoS Flights for infrastructure inspection <br/><img src='/images/BVLoSProjectOverview.jpg'>"
+excerpt: "Detailed simulator of ground and airborne sensors for UAV intruder detection <br/><img src='/images/UAVsim.png'>"
 collection: AI4UAV
 papertopic: UAVSim
 author_profile: true
 layout: archive
 ---
-##BVLOS Inspection of critical logistics infra- and superstructures using coordinated multiple UAS
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="/images//images/UAVsim.png" alt="UAV projects" width="200"/>
+</div>
 
-The research and technical developments sought in this project will enable UAS platforms to perform inspection, monitoring, and modeling the state of critical infra and superstructure in the BVLOS (Beyond Visual Line of Sight) mode, safely from a remote location. The threat detection and collision avoidance methods will provide the critical capability for BVLOS navigation of multiple drones to and around the infrastructure.
+The project aims to develop the following capabilities:
+- Uncertainty in object detection, localization and payload classification
+- Sensor fusion and multimodal learning
+- Intruder behavior
+- Simulation and training algorithms for effectively approaching and chasing the intruder UAS swarm
+- Simulator modules design
+- Analysis for different use cases, configurations, and environments
+
 
 
 
