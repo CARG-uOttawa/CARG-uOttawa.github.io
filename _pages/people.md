@@ -85,8 +85,8 @@ author_profile: true
 | [HamidReza Sadreazami](https://ca.linkedin.com/in/hamidreza-sadreazami-56baa747) | 2017-2019 | PostDoc | Fall detection using radars |
 | [Daniel Shapiro](https://www.linkedin.com/in/dcshapiro/?originalSubdomain=ca) | 2018-2019 | PostDoc | Multi-Microphone Signal Processing and Machine Learning |  Lemay.ai |
 | [Isar Nejadgholi](https://ca.linkedin.com/in/isarnejad) | 2013-2016 | PostDoc | Radar signal processing and classification |
-| [Hitham Jleed](https://uniweb.uottawa.ca/view/profile/members/361?lang=en) | 2023-2024 | PostDoc | Processing video signal to detect obstructive sleep apnea |
-| [Mohammad Forouzanfar](https://www.linkedin.com/pub/dir/Mohammad/Forouzanfar) | 2014-2014 | PostDoc | Classification of the human emotions | University of Ottawa
+| [Hitham Jleed](https://uniweb.uottawa.ca/view/profile/members/361?lang=en) | 2023-2024 | PostDoc | Classification of the human emotions | University of Ottawa|
+| [Mohammad Forouzanfar](https://scholar.google.ca/citations?user=eqAXy0IAAAAJ&hl=en) | 2014-2014 | PostDoc | Detection of breathing using radars | Université du Québec |
 | Crystal Villeneuve | 2012-2014 | PostDoc | Clinical trial of opioid addiction to assess the extended viability of tDCS stimulation |
 | [Shiva Gholami](https://www.linkedin.com/in/shiva-gholami-phd-1a4b8a5/) | 2014-2014 | PostDoc | Biompedance measurements |
 | [Abid Muslim Malik](https://www.linkedin.com/in/abid-m-malik-38097318) | 2008-2009 | PostDoc | Compilers for multiprocessing systems on chip |
@@ -94,8 +94,7 @@ author_profile: true
 | [Balakumar Balasingam](https://ca.linkedin.com/in/balasingam) | 2008-2010 | PostDoc | Complexity reduction of particle filters |
 | [Soojeong Lee](https://scholar.google.co.kr/citations?user=oLiPuwgAAAAJ&hl=ko) | 2009-2010 | PostDoc | Confidence levels for blood pressure measurement |
 | [Mira Vrbaski](https://ca.linkedin.com/in/miravrbaski) | 2015-2023 | PhD | [Cost-Effective Large-Scale Digital Twins Notification System with Prioritization Consideration](https://ruor.uottawa.ca/items/2a69c445-0797-42cd-927f-0d88075659c9) |
-| [Hershel Caytak](https://ca.linkedin.com/in/herschelcaytak-phd) | 2011-2018 | PhD | [BioImpedance spectroscopy methods for analysis and control of neurostimulation dose](https://ruor.uottawa.ca/items/c4ff7975-a600-4392-a323-219e3d4db316) |
-Medical Device and Regulatory Affairs Consultant, Docusys Corporation
+| [Hershel Caytak](https://ca.linkedin.com/in/herschelcaytak-phd) | 2011-2018 | PhD | [BioImpedance spectroscopy methods for analysis and control of neurostimulation dose](https://ruor.uottawa.ca/items/c4ff7975-a600-4392-a323-219e3d4db316) | Medical Device and Regulatory Affairs Consultant, Docusys Corporation |
 | [Daniel Shapiro](https://ca.linkedin.com/in/dcshapiro) | 2008-2017 | PhD | [Composing Recommendations Using Computer Screen Images: A Deep Learning Recommender System for PC Users](https://ruor.uottawa.ca/bitstream/10393/36272/3/Shapiro_Daniel_2017_thesis.pdf) |
 | [Jing Wang](https://dblp.org/pid/02/736-18.html?view=by-year) | 2012-2017 | PhD | [Indoor Localization using Augmented UHF RFID System for the Internet-of-Things](https://ruor.uottawa.ca/bitstream/10393/32588/1/Wang_Jing_2015_Thesis.pdf) |
 | [Mohamed Mabrouk](https://scholar.google.com/citations?hl=en&user=z-Snfa4AAAAJ&view_op=list_works&sortby=pubdate) | 2012-2015 | PhD | [Signal Processing of Ultra-Wideband Radar Signals for Human Detection behind Walls](https://ruor.uottawa.ca/bitstream/10393/31945/1/Mabrouk_Mohamed_2015_thesis.pdf) |
@@ -109,7 +108,7 @@ Medical Device and Regulatory Affairs Consultant, Docusys Corporation
 | Rajitha Hathurusinghe | 2018-2020 | M.Sc. | [Building a Personally Identifiable Information Recognizer in a Privacy Preserved Manner using Automated Annotation and Federated Learning](https://ruor.uottawa.ca/items/a2f123ee-edf3-455e-b21c-76afd524a8e3) |
 | [Shan He](https://scholar.google.com/citations?user=WVnp080AAAAJ&hl=en) | 2017-2019 | M.Sc. | [Time-interval Based Blood Pressure Measurement Technique and System](https://ruor.uottawa.ca/bitstream/10393/37361/1/Hassan_Syed_2018_thesis.pdf) |
 | [Isuru Gunasekara](https://ca.linkedin.com/in/isurug) | 2016-2017 | M.Sc. | [Contactless Estimation of Breathing Rate using UWB Radar](https://ruor.uottawa.ca/bitstreams/316080cd-490f-464e-95f3-affa3436000b/download) |
-| [Xinyang Zhang](https://www.linkedin.com/in/xinyang-susie-zhang-08381ba2/?originalSubdomain=ca) | 2014-2017 | M.Sc. | Characterizing performance of the radar system for breathing and heart rate estimation in real-life conditions | Syntronic, Ottawa
+| [Xinyang Zhang](https://www.linkedin.com/in/xinyang-susie-zhang-08381ba2/?originalSubdomain=ca) | 2014-2017 | M.Sc. | Characterizing performance of the radar system for breathing and heart rate estimation in real-life conditions | Syntronic, Ottawa |
 | Gregory Somers | 2013-2016 | M.Sc. | Acceleration of Block-Aware Matrix Factorization on Heterogeneous Platforms |
 | Ovidiu Draghici | 2010-2014 | M.Sc. | The MouthPad – a Tongue Interface for Hands-Free Computer Control |
 | [Hassan Ahmad Roshan](https://zw.linkedin.com/pub/dir/Hassan+M./+/ca-0-Canada) | 2012-2013 | M.Sc. | Eloping Prevention, Occupancy Detection and Localizing System for Smart Healthcare Applications |
