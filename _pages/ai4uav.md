@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Current projects</h2>
+## Current projects 
 Here is the list of current projects:
 
 {% include base_path %}
