@@ -135,10 +135,55 @@ author_profile: true
 
 
 
-<h3 id="meng">M. Eng. Alumni</h3>
+<h3 id="meng">M. Eng. Alumni from 2024</h3>
+-	Saad Rhanmouni, Jerry Wu, Daniyal Qureshi, Fucheng Wen, Ali Zaytoun,  Bhupali Kaushik, “Contactless Fall Detection Using a FMCW mmWave Radar and HVRAE Machine Learning Model,”  GNG 5902, Winter 2024.
+-	Anuj Nair, Himagna Ganti, Shyam Sunder, Sai Viswanth, Abhinay Chimmula, “UAV 4 EVERYONE,” GNG 5902, Fall 2023.
+-	Mohammad Ahsan Akhlaque, “Integration of ROS and Deep Learning in a UAV Simulator,” ELG 7199, 2024.
+-	Yiqun Hao, “Smartphone-Based Jugular Vein Assessment System,” CSI M.Eng. project CSI6900, Winter 2024.
+-	Qinyu Hu, CAMERA-RADAR FUSION BASED OBJECT DETECTION AND DISTANCE ESTIMATION FOR UAVS, CSI M.Eng. project CSI6900, Winter 2024.
+-	Yang Xu, “Machine Learning Algorithm in Jugular Vein Assessment,” CSI M.Eng. project CSI6900, Winter 2024.
 
-<h3 id="undergrads">Undergraduate Alumni</h3>
+<h3 id="undergrads">Undergraduate Alumni from 2023</h3>
+- Amit Nayak, 2022-2024
+- Josué Dazogbo, 2023.
 
 <h2 id="collab"> Academic Collaborators</h2>
+| Researcher Name                                                                | University                                     | Position                                                                              |
+|--------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------|
+| [I. Mantegh](https://www.linkedin.com/in/iraj-mantegh/?originalSubdomain=ca)  | NRC, Canada | Technology and Team Lead- AI Aerial Robotics & Counter UAS  |
+| [C. Vidal](https://www.linkedin.com/in/iraj-mantegh/?originalSubdomain=ca)  | NRC, Canada | Program Leader (interim), for the Integrated Aerial Mobility (IAM) Program  |
+| [M. Cuperlovic-Culf](https://scholar.google.com/citations?user=NKNhDkIAAAAJ&hl=en)  | NRC, Canada | Senior Research Officer |
+| [H. Najjaran](https://www.uvic.ca/ecs/ece/faculty-and-staff/home/faculty/cross-listed/najjaran-homayoun.php)  | University of Victoria | Professor of Mechanical Engineering  |
+| [P.M. Djuric](https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/djuric_petar) | Stony Brook University                        | Professor, Department of Electrical and Computer Engineering                         |
+| [S. Rajan](https://carleton.ca/sce/people/rajan/)                                     |  Carleton University     | Professor, Systems and Computer Engineering                         |
+| [I. Chihi](https://carleton.ca/sce/people/rajan/)                                     |  University of Luxembourg     | Assistant professor in Electrical Measurement and Sensor Technology                        |
+| [K. Chetty](https://iris.ucl.ac.uk/iris/browse/profile?upi=KCHET45)                                     |  University College London    | Professor in Department of Security & Crime Science                     |
+| [Vujo Drndarevic](https://scholar.google.com/citations?hl=en&user=CgFetgsAAAAJ) | University of Belgrade                        | Professor of Electronics                                                             |
+| [Guan Yong Liang](https://dr.ntu.edu.sg/cris/rp/rp00129)                        | Nanyang Technological University (NTU), Singapore | Associate Vice President (Infrastructure & Programmes); Professor, School of Electrical & Electronic Engineering |
+| [R. Goubran](https://carleton.ca/engineering-design/people/rafik-goubran/)      | Carleton University                           | Vice-President (Research and International); Professor, Department of Systems and Computer Engineering |
+| [A. Adler](https://carleton.ca/sce/people/adler/)                                 | Carleton University   | Professor, Systems and Computer Engineering, Canada Research Professor (Tier II) in Biomedical Engineering                    |
+| [T. Pearce](https://carleton.ca/sce/people/pearce/) | Carleton University                      | Professor, Systems and Computer Engineering         |
+| [V. Savic](https://www.chalmers.se/en/staff/Pages/Vladimir-Savic.aspx)          | Chalmers University of Technology             | Assistant Professor, Department of Electrical Engineering                            |
+| [S. Majumdar](https://carleton.ca/sce/people/majumdar/)                     |  Carleton University     | Professor, Systems and Computer Engineering                         |
+| [Hong-Zhou Tan](https://ieeexplore.ieee.org/author/37278708200)  | Sun Yat-sen University, Guangzhou, China | Professor, School of Electronics and Information Technology |
+| [J. Valdes](https://scholar.google.ca/citations?user=BAaDajcAAAAJ&hl=en)  | NRC, Canada | Research Officer |
+
 
 <h2 id="partners"> Industrial Partners</h2>
+- Orbmedic, Ottawa
+- Astraion LLC, NY
+- Nuraleve (Nordocs Inc.), Ottawa
+- Siemens, Germany
+- Biosign Inc., Toronto, Canada
+- Zodioptics Inc., Ottawa, Canada
+- Orica Inc.
+- Larus Technologies, Ottawa
+- Biopeak Technologies, Ottawa
+- YouI Labs, Ottawa
+- Amita Corporation
+- Correctional Services Canada
+- K & G Spectrum
+- Braebon Corporation
+- UCIC.io Toronto
+- IMRSV Data Labs
+- Ericsson
