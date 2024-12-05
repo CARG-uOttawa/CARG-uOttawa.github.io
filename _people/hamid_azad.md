@@ -15,7 +15,7 @@ layout: archive
 
 - _Associate researcher, University of Ottawa_<br>
 - _M.Sc. student, University of Ottawa, 2021-2023_<br>
-- _Member of [UAV Research Group](https://carg-uottawa.github.io/uav/) and [CARG](https://carg-uottawa.github.io/)_
+- _Member of [UAV Research Group](https://carg-uottawa.github.io/ai4uav/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact

@@ -14,7 +14,7 @@ title: Tianyu Zhang
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Ph.D. candidate, University of Ottawa_<br>
-- _Member of [JVP Research Group](https://carg-uottawa.github.io/jvp/) and [CARG](https://carg-uottawa.github.io/)_
+- _Member of [JVP Research Group](https://carg-uottawa.github.io/health-devices/hdrg-3/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact
@@ -34,6 +34,3 @@ Her research interests lie at the intersection of signal processing, video proce
 - Video processing
 - Learning-based time series analysis
 - Transfer learning
-
-
-Visit his [webpage](https://fardaddadboud.github.io/) for a deeper dive or to have a chat!

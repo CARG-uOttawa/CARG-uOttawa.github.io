@@ -168,15 +168,16 @@ author_profile: true
 | [S. Majumdar](https://carleton.ca/sce/people/majumdar/)                     |  Carleton University     | Professor, Systems and Computer Engineering                         |
 | [Hong-Zhou Tan](https://ieeexplore.ieee.org/author/37278708200)  | Sun Yat-sen University, Guangzhou, China | Professor, School of Electronics and Information Technology |
 | [J. Valdes](https://scholar.google.ca/citations?user=BAaDajcAAAAJ&hl=en)  | NRC, Canada | Research Officer |
+| [Shin-ichi Ando](https://ieeexplore.ieee.org/author/37086628479) | Center of Kyushu University Hospital | Research Professor and Director of Sleep Apnea Center |
 
 
 
 
-<h2 id="partners"> Industrial Partners</h2>
+<h2 id="partners"> Industrial/Government Partners</h2>
 
 | Company Name                                                                | Location                     |
 |-----------------------------------------------------------------------------|------------------------------|
-| [OrbMedic](https://orbmedic.com/)                                           | Ottawa, Canada               |
+| [OrbMedic, Inc.](https://orbmedic.com/)                                           | Ottawa, Canada               |
 | Scandent, LLC                                                                | New York, USA                |
 | [Nuraleve (Nordocs Inc.)](https://www.nuraleve.com/)                        | Ottawa, Canada               |
 | [Siemens](https://www.siemens.com/global/en.html)                           | Germany                      |

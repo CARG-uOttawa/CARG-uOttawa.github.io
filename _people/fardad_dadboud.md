@@ -14,7 +14,7 @@ title: Fardad Dadboud
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Ph.D. candidate, University of Ottawa_<br>
-- _Member of [UAV Research Group](https://carg-uottawa.github.io/uav/) and [CARG](https://carg-uottawa.github.io/)_
+- _Member of [UAV Research Group](https://carg-uottawa.github.io/ai4uav/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact

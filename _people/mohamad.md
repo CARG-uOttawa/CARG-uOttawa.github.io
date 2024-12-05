@@ -14,7 +14,7 @@ title: Mohamad Hosein Davoodabadi Farahani
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _MSc Student, University of Ottawa_<br>
-- _Member of [JVP Research Group](https://carg-uottawa.github.io/jvp/) and [CARG](https://carg-uottawa.github.io/)_
+- _Member of [JVP Research Group](https://carg-uottawa.github.io/health-devices/hdrg-3/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact

@@ -1,6 +1,6 @@
 ---
 name: Gustavo Veloso
-position: Masters Student
+position: gradstudent
 avatar: gustavo_veloso_photo.jpg
 twitter:
 joined: 2024
@@ -14,10 +14,12 @@ title: Gustavo Veloso
 
     _M.Sc. student, University of Ottawa, 2023-2025_<br>
     _B.Sc., Federal University of Rio de Janeiro, 2017-2021_<br>
+    _Member of [UAV Research Group](https://carg-uottawa.github.io/ai4uav/) and [CARG](https://carg-uottawa.github.io/)_
 
 ### Contact
-<i class="fa fa-envelope-o"> guslvca@gmail.com<br>
+<i class="fa fa-envelope-o"> guslvca@gmail.com </i><br>
 <hr>
+
 ###  Bio
 Gustavo earned his B.Sc. in Computer Science from the Federal University of Rio de Janeiro in 2021. He has been working as a backend software developer. Over the past five years, Gustavo has specialized in mission-critical systems availability, cloud computing, operating systems, and machine learning.
 
