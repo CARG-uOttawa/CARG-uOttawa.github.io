@@ -13,7 +13,8 @@ Our CARG AI4UAV group at the University of Ottawa is all about developing smarte
 
 A big part of our work is making sure our AI systems are resilient, meaning they can keep performing well even in unpredictable or previously unseen situations. We’re pushing the boundaries of resilient AI for countering drones, focusing on things like sensor fusion, payload detection, and building complex systems that work reliably. With UAVs becoming more advanced, our goal is to create adaptable solutions that can keep up with these growing capabilities and handle real-world challenges effectively.
 
-For the CUAS dataset that contains videos of UAVs with different backgrounds, please go to [CUAS and Power Line Datasets](http://206.12.93.58/).
+For the CUAS dataset that contains videos of UAVs with different backgrounds, please go to [DrIFT Dataset](https://github.com/CARG-uOttawa/DrIFT?tab=readme-ov-file).
+<!-- (http://206.12.93.58/) -->
 
 Here is the list of current projects:
 
