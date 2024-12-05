@@ -148,8 +148,9 @@ author_profile: true
 - Josué Dazogbo, 2023.
 
 <h2 id="collab"> Academic Collaborators</h2>
-| Researcher Name                                                                | University                                     | Position                                                                              |
-|--------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------|
+
+| Researcher Name            | University/Institute | Position                                  |
+|---------------------------------|-----------------|--------------------------|
 | [I. Mantegh](https://www.linkedin.com/in/iraj-mantegh/?originalSubdomain=ca)  | NRC, Canada | Technology and Team Lead- AI Aerial Robotics & Counter UAS  |
 | [C. Vidal](https://www.linkedin.com/in/iraj-mantegh/?originalSubdomain=ca)  | NRC, Canada | Program Leader (interim), for the Integrated Aerial Mobility (IAM) Program  |
 | [M. Cuperlovic-Culf](https://scholar.google.com/citations?user=NKNhDkIAAAAJ&hl=en)  | NRC, Canada | Senior Research Officer |
@@ -169,21 +170,23 @@ author_profile: true
 | [J. Valdes](https://scholar.google.ca/citations?user=BAaDajcAAAAJ&hl=en)  | NRC, Canada | Research Officer |
 
 
+
+
 <h2 id="partners"> Industrial Partners</h2>
-- Orbmedic, Ottawa
-- Astraion LLC, NY
-- Nuraleve (Nordocs Inc.), Ottawa
-- Siemens, Germany
-- Biosign Inc., Toronto, Canada
-- Zodioptics Inc., Ottawa, Canada
-- Orica Inc.
-- Larus Technologies, Ottawa
-- Biopeak Technologies, Ottawa
-- YouI Labs, Ottawa
-- Amita Corporation
-- Correctional Services Canada
-- K & G Spectrum
-- Braebon Corporation
-- UCIC.io Toronto
-- IMRSV Data Labs
-- Ericsson
+
+| Company Name                                                                | Location                     |
+|-----------------------------------------------------------------------------|------------------------------|
+| [OrbMedic](https://orbmedic.com/)                                           | Ottawa, Canada               |
+| Scandent, LLC                                                                | New York, USA                |
+| [Nuraleve (Nordocs Inc.)](https://www.nuraleve.com/)                        | Ottawa, Canada               |
+| [Siemens](https://www.siemens.com/global/en.html)                           | Germany                      |
+| [Biosign Inc.](https://www.biosign.com/)                                    | Toronto, Canada              |
+| Zodioptics Inc.                                                             | Ottawa, Canada               |
+| Orica Inc.                                                                  | Australia                    |
+| [Larus Technologies](https://www.larus.com/)                                | Ottawa, Canada               |
+| [Amita Corporation](https://www.amita.com/)                                 | Ottawa, Canada               |
+| [Correctional Service Canada](https://www.csc-scc.gc.ca/)                   | Canada                       |
+| [Braebon Corporation](https://www.braebon.com/)                             | Ottawa, Canada               |
+| [UCIC.io](https://www.ucic.io/)                                             | Toronto, Canada              |
+| [IMRSV Data Labs](https://www.imrsvdatalabs.com/)                           | Ottawa, Canada               |
+| [Ericsson](https://www.ericsson.com/en)                                     | Ottawa, Canada               |
