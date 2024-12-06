@@ -6,8 +6,9 @@ papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
-
-[![](/images/RadarActivities.mp4()](/images/RadarActivities.mp4)
+<video width="320" height="240" style="float: right; margin: 0 0 10px 10px; controls>
+  <source src="/images/RadarActivities.mp4" type="video/mp4">
+</video>
 
 ## Monitoring elderly people in nursing homes
 
