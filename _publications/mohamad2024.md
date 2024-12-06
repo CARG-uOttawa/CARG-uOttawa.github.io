@@ -1,7 +1,7 @@
 ---
 title: "Non-Contact Imaging of the Neck for Monitoring Cardiopulmonary Clinic Patients"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/mohamad2024
 excerpt: 'This paper is about novel estimation of vital signs from motions of the pixels obtained from videos of the neck.'
 date: 2024-11-30
@@ -9,7 +9,7 @@ venue: 'Biomedical Optics Express'
 papertopic: ["JVP"]
 slidesurl:
 paperurl:
-author: 'Davoodabadi Farahani, M.H. and  Bolic, M. and Zhang, T. and Zadorsky, T. and Sabbagh, R.'
+author: 'Davoodabadi Farahani, M.H.,  Bolic, M., Zhang, T., Zadorsky, T.,  Sabbagh, R.'
 citation: 'Davoodabadi Farahani, M.H. and  Bolic, M. and Zhang, T. and Zadorsky, T. and Sabbagh, R., Non-Contact Imaging of the Neck for Monitoring Cardiopulmonary Clinic Patients, Biomedical Optics Express, 2024.'
 ieee_citation: 'M.H. Davoodabadi Farahani, M. Bolic, T. Zhang, T. Zadorsky, R. Sabbagh, Non-Contact Imaging of the Neck for Monitoring Cardiopulmonary Clinic Patients, Biomedical Optics Express, 2024.'
 ---
