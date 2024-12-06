@@ -1,7 +1,7 @@
 ---
 name: Saad Rhanmouni
 position: researchstaff
-avatar: saad_rhanmouni.jpg
+avatar: saad_rhanmouni.png
 twitter:
 joined: 2024
 title: Saad Rhanmouni
@@ -13,12 +13,12 @@ layout: archive
 <img  width="100"  src="{{site.baseurl}}/images/people/{{page.avatar}}"  data-action="zoom">
 
 -  _Master student, University of Ottawa_<br>
--  _Member of [[Health-Devices Research Group](https://carg-uottawa.github.io/health-devices/)](https://carg-uottawa.github.io/uav/) and [CARG](https://carg-uottawa.github.io/)_
+-  _Member of [Health-Devices Research Group](https://carg-uottawa.github.io/health-devices/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact
 
-<i  class="fa fa-envelope-o"></i> `xwang736@uottawa.ca`<br>
+<i  class="fa fa-envelope-o"></i> `srhan056@uottawa.ca`<br>
 
 <hr>
 

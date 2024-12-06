@@ -13,7 +13,7 @@ layout: archive
 <img  width="100"  src="{{site.baseurl}}/images/people/{{page.avatar}}"  data-action="zoom">
 
 -  _Master student, University of Ottawa_<br>
--  _Member of [[Health-Devices Research Group](https://carg-uottawa.github.io/health-devices/)](https://carg-uottawa.github.io/uav/) and [CARG](https://carg-uottawa.github.io/)_
+-  _Member of [Health-Devices Research Group](https://carg-uottawa.github.io/health-devices/) and [CARG](https://carg-uottawa.github.io/)_
 
 
 ### Contact
