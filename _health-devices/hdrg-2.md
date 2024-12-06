@@ -16,7 +16,7 @@ layout: archive
 We’re working on developing advanced, contactless monitoring systems to make life easier for healthcare professionals and improve outcomes for patients. Our goal is to provide continuous and reliable monitoring that doesn’t disrupt people’s daily routines or add extra work for nursing staff.
 
 For nursing home residents, we want to better understand their activities and needs by collecting data seamlessly. For heart failure patients, we’re focused on spotting early signs of health issues so that doctors and caregivers can step in before things get worse.
-________________________________________
+
 ## Current work
 1.	Monitoring Elderly in Nursing Homes:
 -	We’re building a contactless system that tracks residents’ activities, breathing patterns, and detects falls.
@@ -26,7 +26,7 @@ ________________________________________
 -	We’re designing algorithms to measure breathing patterns and predict when heart failure patients might be getting worse.
 -	Our prototype system can monitor patients from a distance, which we’re testing in hospitals to make sure it’s as accurate as the medical equipment used today.
 -	Eventually, we want to move this technology into patients’ homes, so it can send alerts to caregivers or emergency services when needed.
-________________________________________
+
 ## Future directions
 1.	Expanding Contactless Monitoring:
 -	We want to add more features to the nursing home system, like predicting health issues early based on changes in activity or breathing patterns.
@@ -124,5 +124,8 @@ ________________________________________
   </div>
   <hr>
   {% endfor %}
+
+
+
   <h2>External Collaborators</h2>
   <h2>Alumni</h2>

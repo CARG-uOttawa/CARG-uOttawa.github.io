@@ -3,7 +3,7 @@ name: Xilai Wang
 position: gradstudent
 avatar: xilai_wang_photo.jpg
 twitter:
-joined: 2023
+joined: 2024
 title: Xilai Wang
 author_profile: true
 field: ["RadarBreathing"]
