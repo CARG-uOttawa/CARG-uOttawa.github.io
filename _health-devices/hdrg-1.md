@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CARG Health-Devices: <br/>Continous cuffless blood pressure (BP) monitoring"
+title: "CARG Health-Devices: <br/>Continuos blood pressure monitoring"
 excerpt: "Machine learning and signal processing advances for BP monitoring <br/><img src='/images/ContinousBPProcessing.png'>"
 collection: health-devices
 papertopic: BloodPressure
