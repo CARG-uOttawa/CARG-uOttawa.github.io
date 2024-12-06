@@ -6,7 +6,7 @@ papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
-<video width="320" height="240" style="float: right; margin: 0 0 10px 10px; controls>
+<video width="320" height="240" controls>
   <source src="/images/RadarActivities.mp4" type="video/mp4">
 </video>
 
