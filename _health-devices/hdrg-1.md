@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CARG Health-Devices: <br/>Continuos blood pressure monitoring"
-excerpt: "Machine learning and signal processing advances for cuffless reliable long-term blood pressure monitoring <br/><img src='/images/Oscillometric.png'>"
+title: "CARG Health Devices: <br/>Continuos blood pressure monitoring"
+excerpt: "Machine learning and signal processing advances for reliable, cuffless, long-term blood pressure monitoring <br/><img src='/images/Oscillometric.png'>"
 collection: health-devices
 papertopic: BloodPressure
 author_profile: true
