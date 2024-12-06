@@ -1,5 +1,5 @@
 ---
-title: "CARG AI4UAAV: Detecting 5G-Enabled UAVs"
+title: "CARG AI4UAV: Detecting 5G-Enabled UAVs"
 excerpt: "Detection and Classification of 5G/LTE Unmanned Aerial Systems <br/><img src='/images/UAVMicroDoppler.png'>"
 collection: AI4UAV
 papertopic: UAV5G

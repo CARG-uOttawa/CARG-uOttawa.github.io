@@ -1,5 +1,5 @@
 ---
-title: "CARG AI4UAAV: Multimodal AI-based Counter UAS Systems"
+title: "CARG AI4UAV: Multimodal AI-based Counter UAS Systems"
 excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/DroneClassification.jpg'>"
 collection: AI4UAV
 papertopic: CUAS
