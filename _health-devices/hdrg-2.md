@@ -12,13 +12,31 @@ layout: archive
 </video>
 </div>
 
-## Monitoring elderly people in nursing homes
+## Motivation:
+We’re working on developing advanced, contactless monitoring systems to make life easier for healthcare professionals and improve outcomes for patients. Our goal is to provide continuous and reliable monitoring that doesn’t disrupt people’s daily routines or add extra work for nursing staff.
 
-We are developing a contactless monitoring system intended for use by healthcare professionals for continuous monitoring of resident’s activity and breathing patterns as well as fall detection in assisted living facilities and retirement homes. The key benefit of our system is to allow for continuous monitoring without any impact on residents’ daily routines. Monitoring without any requirement for compliance by the residents or any additional burden to the nursing staff will allow us to collect a large number of data that will lead towards in-depth understanding of the activities and needs of the residents.
-
-## Classifying breathing patterns of heart failure patients
-
-The objectives of the primary phase of this study are to develop and verify algorithms for estimating breathing patterns of each patient and for reliable prediction of decompensating congestive heart failure (CHF). By the end of this project, we will be able to demonstrate the ability of our technology to continuously monitor CHF patients. The key requirement is that the system be unobtrusive yet capable of continuous, accurate monitoring over distances of several meters. Initially, our prototype will be assessed in a hospital setting so as to corroborate data fidelity with currently available medical telemetry, now considered the gold standard. The eventual goal is to create a system capable of monitoring patients at home and relaying physiological alerts to care providers or emergency services in the community.
+For nursing home residents, we want to better understand their activities and needs by collecting data seamlessly. For heart failure patients, we’re focused on spotting early signs of health issues so that doctors and caregivers can step in before things get worse.
+________________________________________
+## Current work
+1.	Monitoring Elderly in Nursing Homes:
+-	We’re building a contactless system that tracks residents’ activities, breathing patterns, and detects falls.
+-	The system works in the background, so residents don’t have to do anything differently, and staff don’t have to take on extra tasks.
+-	By collecting a lot of data over time, we’ll be able to get a clearer picture of what residents need to live healthier, safer lives.
+2.	Classifying Breathing Patterns in Heart Failure Patients:
+-	We’re designing algorithms to measure breathing patterns and predict when heart failure patients might be getting worse.
+-	Our prototype system can monitor patients from a distance, which we’re testing in hospitals to make sure it’s as accurate as the medical equipment used today.
+-	Eventually, we want to move this technology into patients’ homes, so it can send alerts to caregivers or emergency services when needed.
+________________________________________
+##Future directions
+1.	Expanding Contactless Monitoring:
+-	We want to add more features to the nursing home system, like predicting health issues early based on changes in activity or breathing patterns.
+-	We’re also exploring how AI can help analyze the data to spot trends and provide better insights.
+2.	Bringing CHF Monitoring Home:
+-	After testing in hospitals, we’ll adapt our heart failure monitoring system for home use, so patients can stay safe and connected to their care teams without needing to visit a hospital.
+3.	Adding More Sensors:
+-	We’re looking into using other types of sensors, like thermal imaging or environmental monitors, to give a more complete picture of a person’s health.
+4.	Making It Easy to Use:
+-	We’re designing these systems to be user-friendly for both healthcare staff and the people being monitored. That means testing and improving them based on real-world feedback.
 
 
 <div class="content-container">
