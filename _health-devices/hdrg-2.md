@@ -6,13 +6,13 @@ papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
-<div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images//ElderlyContactless.png" alt="Monitoring Elderlies" width="500"/>
-</div>
+<video width="320" height="240" controls>
+  <source src="/images/RadarActivities.mp4" type="video/mp4">
+</video>
 
 ## Monitoring elderly people in nursing homes
 
-We will develop and test a contactless monitoring system intended for use by healthcare professionals for continuous monitoring of resident’s activity and breathing patterns as well as fall detection in assisted living facilities and retirement homes. The key benefit of our system is to allow for continuous monitoring without any impact on residents’ daily routines. Monitoring without any requirement for compliance by the residents or any additional burden to the nursing staff will allow us to collect a large number of data that will lead towards in-depth understanding of the activities and needs of the residents.
+We are developing a contactless monitoring system intended for use by healthcare professionals for continuous monitoring of resident’s activity and breathing patterns as well as fall detection in assisted living facilities and retirement homes. The key benefit of our system is to allow for continuous monitoring without any impact on residents’ daily routines. Monitoring without any requirement for compliance by the residents or any additional burden to the nursing staff will allow us to collect a large number of data that will lead towards in-depth understanding of the activities and needs of the residents.
 
 ## Classifying breathing patterns of heart failure patients
 
