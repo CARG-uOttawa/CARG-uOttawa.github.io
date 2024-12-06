@@ -27,7 +27,7 @@ ________________________________________
 -	Our prototype system can monitor patients from a distance, which we’re testing in hospitals to make sure it’s as accurate as the medical equipment used today.
 -	Eventually, we want to move this technology into patients’ homes, so it can send alerts to caregivers or emergency services when needed.
 ________________________________________
-##Future directions
+## Future directions
 1.	Expanding Contactless Monitoring:
 -	We want to add more features to the nursing home system, like predicting health issues early based on changes in activity or breathing patterns.
 -	We’re also exploring how AI can help analyze the data to spot trends and provide better insights.
