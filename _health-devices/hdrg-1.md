@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CARG Health-Devices: <br/>Continuos blood pressure monitoring"
-excerpt: "Machine learning and signal processing advances for BP monitoring <br/><img src='/images/ContinousBPProcessing.png'>"
+excerpt: "Machine learning and signal processing advances for BP monitoring <br/><img src='/images/MedicalDeviceModeling.png'>"
 collection: health-devices
 papertopic: BloodPressure
 author_profile: true

@@ -1,11 +1,14 @@
 ---
 title: "CARG Health Devices: <br/>Contactless Estimation of Vital Signs"
-excerpt: "Radar-based signal processing and machine learning for detecting activities and falls and estimating vital signs. <br/><img src='/images/radar_system.png'>"
+excerpt: "Radar-based signal processing and machine learning for detecting activities and falls and estimating vital signs. <br/><img src='/images/ElderlyContactless.png'>"
 collection: health-devices
 papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="/images//ElderlyContactless.png" alt="Monitoring Elderlies" width="500"/>
+</div>
 
 ## Monitoring elderly people in nursing homes
 
