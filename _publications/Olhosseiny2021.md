@@ -2,12 +2,12 @@
 title: 'Identifying High Risk of Atherosclerosis Using Deep Learning and Ensemble Learning'
 collection: publications
 category: conferences
-papertopic: ["Biomedcal", "Wearables"]
+papertopic: ["Biomedical", "Wearables"]
 permalink: /publication/Olhosseiny2021
 excerpt: 'The paper presents a classification of patients based on physiological signals.'
 date: 2021-01-01
 venue: '2021 IEEE International Symposium on Medical Measurements and Applications (MeMeA)'
-slidesurl: ''
+slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/document/9478741/'
 author: 'Olhosseiny, H. H., Mirzaloo, M., Bolic, M., Dajani, H. R., Groza, V., Yoshida, M.'
 image: ''
