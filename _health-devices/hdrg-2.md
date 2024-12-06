@@ -6,9 +6,11 @@ papertopic: RadarBreathing
 author_profile: true
 layout: archive
 ---
+<div style="float: right; margin: 0 0 10px 10px;">
 <video width="320" height="240" controls>
   <source src="/images/RadarActivities.mp4" type="video/mp4">
 </video>
+</div>
 
 ## Monitoring elderly people in nursing homes
 
@@ -20,7 +22,6 @@ The objectives of the primary phase of this study are to develop and verify algo
 
 
 <div class="content-container">
-  <h2>Motivation</h2>
 
   <!-- Section: Papers -->
   <section id="publications">
