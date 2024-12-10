@@ -1,13 +1,13 @@
 ---
 title: "CARG AI4UAV: Multimodal AI-based Counter UAS Systems"
-excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/DroneClassification.jpg'>"
+excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/CUASSystemArchitecture.png'>"
 collection: AI4UAV
 papertopic: CUAS
 author_profile: true
 layout: archive
 ---
 <div style="float: right; margin: 0 0 10px 10px;">
-  <img src="/images/DroneClassification.jpg" alt="UAV projects" width="300"/>
+  <img src="/images/CUASSystemArchitecture.png" alt="UAV projects" width="400"/>
 </div>
 
 Detection and tracking of UAVs using radars poses significant challenges because small UAVs typically have a small radar cross-section, fly at lower speed, and mostly at lower altitudes compared to larger aircraft. In addition, it is a nontrivial task to distinguish these small flying objects from birds. Signature detection from birds by itself is a difficult task, as data collection, distinguishing a single bird from a flock of flying birds and distinguishing different types of birds from a distance are all challenging tasks. Until now, several attempts to detect UAVs and distinguish them from birds using various sensors have achieved only limited success. In this project, we will develop a system for automated classification of UAVs and birds using artificial intelligence algorithms. The system will be based on processing data from radar sensor and sensor fusion of radar and camera data.

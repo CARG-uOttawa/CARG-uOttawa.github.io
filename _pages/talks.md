@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 ## Recent Talks
 
 1.	Keynote speech: “Methods for UAV Detection,” ICCIMS conference, presented by M. Bolic, July 2024.
-2.	EMBC Workshop: “Model-Based Design for Cardiovascular Monitoring Devices: Examples Using Oscillometric and Continuous Blood Pressure Methods,” presented by M. Bolic, EMBC 2024.
+2.	EMBC tutorial: “Model-Based Design for Cardiovascular Monitoring Devices: Examples Using Oscillometric and Continuous Blood Pressure Methods,” presented by M. Bolic, EMBC 2024.
 3.	Invited speech, “Contactless Cardiac and Respiratory Monitoring,” presented by M. Bolic, University College London, UK, 2024.
-4.	Tutorial: “Quantifying Uncertainty in Measurement Devices,” presented by M. Bolic, I2MTC conference, Glasgow, UK, 2024.
+4.	I2MTC tutorial: “Quantifying Uncertainty in Measurement Devices,” presented by M. Bolic, I2MTC conference, Glasgow, UK, 2024.
 5.	Invited speech, “Computer Architectures and Algorithms: From Filtering to Deep Learning,” presented by M. Bolic, CMC Canada, Accelerating AI 2022.
 6.	Keynote speech, “Computer Architectures and Algorithms: From Filtering to Deep Learning,” presented by M. Bolic, EMCA Developer Conference, Ericsson, Ottawa, 2019
 7.	Keynote speech, “Contactless monitoring of people,” presented by M. Bolic, Infoware 2017 in France
