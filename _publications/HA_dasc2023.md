@@ -2,7 +2,8 @@
 title: "Air-to-Air Simulated Drone Dataset for AI-powered problems"
 collection: publications
 category: conferences
-papertopic: ["CAUS", "UAVSim"]
+papertopic: ["CAUS"]
+papertopic: ["UAVSim"]
 permalink: /publication/HA_dasc2023
 slidesurl: /files/HA_dasc2023.pptx
 excerpt: 'This paper presents a comprehensive multi-view air-to-air simulated vision drone dataset.'
