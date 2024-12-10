@@ -1,5 +1,5 @@
 ---
-title: "CARG Health Devices: <br/>Contactless Estimation of Vital Signs"
+title: "CARG Health Devices: Contactless Estimation of Vital Signs"
 excerpt: "Radar-based signal processing and machine learning for detecting activities and falls and estimating vital signs. <br/><img src='/images/ElderlyContactless.png'>"
 collection: health-devices
 papertopic: RadarBreathing

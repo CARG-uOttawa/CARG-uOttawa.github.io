@@ -12,9 +12,9 @@ title: Gustavo Veloso
 ---
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-    _M.Sc. student, University of Ottawa, 2023-2025_<br>
-    _B.Sc., Federal University of Rio de Janeiro, 2017-2021_<br>
-    _Member of [UAV Research Group](https://carg-uottawa.github.io/ai4uav/) and [CARG](https://carg-uottawa.github.io/)_
+- _M.Sc. student, University of Ottawa, 2023-2025_<br>
+- _B.Sc., Federal University of Rio de Janeiro, 2017-2021_<br>
+- _Member of [UAV Research Group](https://carg-uottawa.github.io/ai4uav/) and [CARG](https://carg-uottawa.github.io/)_
 
 ### Contact
 <i class="fa fa-envelope-o"> guslvca@gmail.com </i><br>

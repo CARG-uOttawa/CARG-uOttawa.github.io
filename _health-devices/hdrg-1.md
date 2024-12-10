@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CARG Health Devices: <br/>Continuos blood pressure monitoring"
+title: "CARG Health Devices: Continuos blood pressure monitoring"
 excerpt: "Machine learning and signal processing advances for reliable, cuffless, long-term blood pressure monitoring <br/><img src='/images/Oscillometric.png'>"
 collection: health-devices
 papertopic: BloodPressure
