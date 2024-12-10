@@ -1,6 +1,6 @@
 ---
-title: "CARG AI4UAV: Multimodal AI-based Counter UAS Systems"
-excerpt: "Detection and tracking of intruder UAS <br/><img src='/images/CUASSystemArchitecture.png'>"
+title: "CARG AI4UAV: AI-based Counter UAS Systems"
+excerpt: "Deep learning models for detection and tracking of intruder UAS <br/><img src='/images/CUASSystemArchitecture.png'>"
 collection: AI4UAV
 papertopic: CUAS
 author_profile: true

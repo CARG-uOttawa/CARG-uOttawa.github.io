@@ -1,6 +1,6 @@
 ---
 title: "CARG AI4UAV: Counter UAS Simulator"
-excerpt: "Detailed simulator of ground and airborne sensors for UAV intruder detection <br/><img src='/images/UAVsim.png'>"
+excerpt: "Simulator of ground and airborne sensors for UAV intruder detection <br/><img src='/images/UAVsim.png'>"
 collection: AI4UAV
 papertopic: UAVSim
 author_profile: true
