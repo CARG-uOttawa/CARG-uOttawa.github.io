@@ -2,11 +2,11 @@
 title: "Hybrid AI-enabled Method for UAS and Bird Detection and Classification"
 collection: publications
 category: conferences
-papertopic: ["CAUS","UAVSim"]
+papertopic: ["CAUS", "UAVSim"]
 permalink: /publication/zhang2020
 slidesurl:
 excerpt: 'A novel approach combining IMM filters and LSTM-based RNNs achieved 99.3% accuracy in classifying drones versus birds using synthetic trajectory data.'
-date: 2021-10-01
+date: 2020-10-01
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl:
 author: 'X. Zhang, V. Mehta, M. Bolic and I. Mantegh'

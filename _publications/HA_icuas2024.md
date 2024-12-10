@@ -2,7 +2,7 @@
 title: "DroneRanger: Vision-Driven Deep Learning for Drone Distance Estimation"
 collection: publications
 category: conferences
-papertopic: [CAUS]
+papertopic: [AI4LUAV]
 permalink: /publication/HA_icuas2024.pdf
 slidesurl: /files/HA_icuas2024.pptx
 excerpt: 'This paper introduces a novel approach to vision-based localization of drones using deep learning techniques.'

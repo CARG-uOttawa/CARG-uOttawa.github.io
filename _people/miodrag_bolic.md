@@ -4,7 +4,6 @@ position: pi
 avatar: miodrag-bolic.jpg
 twitter:
 title: "Miodrag Bolic"
-field: ["Emotion Recognition", "AI"]
 bio: "Dr. Miodrag Bolic is the PI on the project."
 status: "active"
 field: ["JVP", "Emotions", "BloodPressure", "RadarBreathing", "CUAS", "AI4LUAV", "UAV5G", "UAVSim", "Bioreactor", "ComputerArchitecture", "MachineLearning", "AI"]
