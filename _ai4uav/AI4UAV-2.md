@@ -19,17 +19,27 @@ Detection and tracking of UAVs using radars poses significant challenges because
 
   <!-- Section: Papers -->
   <section id="publications">
-    <h2>Research Papers</h2>
-    <div class="paper-grid">
-      {% assign topic_papers = site.publications | where_exp: "item", "page.papertopic in item.papertopic" %}
-      {% for paper in topic_papers reversed %}
-        <div class="paper-card">
-            <dl><dt>{{ paper.citation }}</dt>
-            <dd>- <em>Description</em>: {{ paper.excerpt }}</dd> </dl>
-            <a href="{{ paper.url }}" class="btn">Read More</a>
-        </div>
-      {% endfor %}
-    </div>
+      <h2>Research Papers</h2>
+      <div class="paper-grid">
+        {% assign topic_papers = site.publications %}
+        {% for paper in topic_papers reversed %}
+          {% assign match = false %}
+          {% for topic in paper.papertopic %}
+            {% if topic == page.papertopic %}
+              {% assign match = true %}
+            {% endif %}
+          {% endfor %}
+          {% if match %}
+            <div class="paper-card">
+                <dl>
+                    <dt>{{ paper.citation }}</dt>
+                    <dd>- <em>Description</em>: {{ paper.excerpt }}</dd>
+                </dl>
+                <a href="{{ paper.url }}" class="btn">Read More</a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
   </section>
   <!-- Section: Researchers -->
 
