@@ -27,6 +27,7 @@ Detection and tracking of UAVs using radars poses significant challenges because
           {% for topic in paper.papertopic %}
             {% if topic == page.papertopic %}
               {% assign match = true %}
+              {% break %}
             {% endif %}
           {% endfor %}
           {% if match %}
