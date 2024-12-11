@@ -23,14 +23,7 @@ Detection and tracking of UAVs using radars poses significant challenges because
       <div class="paper-grid">
         {% assign topic_papers = site.publications %}
         {% for paper in topic_papers reversed %}
-          {% assign match = false %}
-          {% for topic in paper.papertopic %}
-            {% if topic == page.papertopic %}
-              {% assign match = true %}
-            {% break %}
-            {% endif %}
-          {% endfor %}
-          {% if match %}
+          {% if page.papertopic in paper.papertopic %}
             <div class="paper-card">
                 <dl>
                     <dt>{{ paper.citation }}</dt>

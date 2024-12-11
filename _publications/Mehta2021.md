@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 papertopic: [CUAS]
 permalink: /publication/Mehta2021
-excerpt: 'Tracking and Classification of Drones and Birds at a Far Distance Using Radar Data published in .'
+excerpt: 'Distinguishing between birds and drones based on their motion patterns.'
 date: 2021-01-01
 venue: ''
 slidesurl:
@@ -12,7 +12,7 @@ paperurl: 'https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO
 author: 'Mehta, V., Bolic, M., Mantegh, I., Vidal, C.'
 image: ''
 citation: 'Mehta, V., Bolic, M., Mantegh, I., Vidal, C.. Tracking and Classification of Drones and Birds at a Far Distance Using Radar Data, 2021.'
-ieee_citation: 'V. Mehta, M. Bolic, I. Mantegh, C. Vidal, Tracking and Classification of Drones and Birds at a Far Distance Using Radar Data, 2021.'
+ieee_citation: 'V. Mehta, M. Bolic, I. Mantegh, C. Vidal, Tracking and Classification of Drones and Birds at a Far Distance Using Radar Data, NATO Conference, 2021.'
 keywords: ''
 ---
 
