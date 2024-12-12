@@ -31,11 +31,11 @@ Key aspects of our research include the development of resilient AI systems that
           {% endif %}
         {% endfor %}
         {% if match %}
-          <div>
-            <p>{{ paper.citation }}</p>
-            <p>Description: {{ paper.excerpt }}</p>
-            <a href="{{ paper.url }}">Read More</a>
-          </div>
+        <div class="paper-card">
+            <dl><dt>{{ paper.citation }}</dt>
+            <dd>- <em>Description</em>: {{ paper.excerpt }}</dd> </dl>
+            <a href="{{ paper.url }}" class="btn">Read More</a>
+        </div>
         {% endif %}
       {% endfor %}
       </div>
