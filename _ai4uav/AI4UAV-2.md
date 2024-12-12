@@ -23,13 +23,7 @@ Key aspects of our research include the development of resilient AI systems that
       <div class="paper-grid">
       {% assign topic_papers = site.publications %}
       {% for paper in topic_papers reversed %}
-        {% assign match = false %}
-        {% for topic in paper.papertopic %}
-          {% if page.papertopic contains topic %}
-            {% assign match = true %}
-          {% endif %}
-        {% endfor %}
-        {% if match %}
+        {% if paper.papertopic contains page.papertopic %}
           <div>
             <p>{{ paper.citation }}</p>
             <p>Description: {{ paper.excerpt }}</p>
