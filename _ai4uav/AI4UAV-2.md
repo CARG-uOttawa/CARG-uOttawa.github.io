@@ -10,9 +10,9 @@ layout: archive
   <img src="/images/CUASSystemArchitecture.png" alt="UAV projects" width="400"/>
 </div>
 
-Detection and tracking of UAVs using radars poses significant challenges because small UAVs typically have a small radar cross-section, fly at lower speed, and mostly at lower altitudes compared to larger aircraft. In addition, it is a nontrivial task to distinguish these small flying objects from birds. Signature detection from birds by itself is a difficult task, as data collection, distinguishing a single bird from a flock of flying birds and distinguishing different types of birds from a distance are all challenging tasks. Until now, several attempts to detect UAVs and distinguish them from birds using various sensors have achieved only limited success. In this project, we will develop a system for automated classification of UAVs and birds using artificial intelligence algorithms. The system will be based on processing data from radar sensor and sensor fusion of radar and camera data.
+Rapid advancements in UAV technology demand sophisticated detection and response systems to address threats in national defense, security, and airspace safety. The CARG AI4UAV team utilizes their expertise in radar, statistical signal processing, machine learning, and computer vision to develop systems capable of detecting, classifying, and tracking UAVs using both ground and airborne sensors.
 
-
+Key aspects of our research include the development of resilient AI systems that maintain reliability despite domain shifts and uncertainties. The system architecture integrates ground sensors like radar and PTZ cameras with interceptor UAVs to provide early warning, detection, tracking, and payload classification. The team tackles challenges such as long-distance object detection, ensuring model robustness with unseen data, and multi-sensor fusion. Our work combines modeling and simulations with extensive data collection. Thw work is supported by funding from NRC and NSERC.
 
 
 <div class="content-container">
@@ -31,6 +31,7 @@ Detection and tracking of UAVs using radars poses significant challenges because
                 </dl>
                 <a href="{{ paper.url }}" class="btn">Read More</a>
             </div>
+            {% break %}
           {% endif %}
         {% endfor %}
       </div>
