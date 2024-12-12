@@ -20,6 +20,7 @@ Key aspects of our research include the development of resilient AI systems that
   <!-- Section: Papers -->
   <section id="publications">
       <h2>Research Papers</h2>
+      <div class="paper-grid">
       {% assign topic_papers = site.publications %}
       {% assign page_topics = page.papertopic | join: ',' %}
       {% for paper in topic_papers reversed %}
