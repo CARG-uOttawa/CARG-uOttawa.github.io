@@ -22,11 +22,10 @@ Key aspects of our research include the development of resilient AI systems that
       <h2>Research Papers</h2>
       <div class="paper-grid">
       {% assign topic_papers = site.publications %}
-      {% assign page_topics = page.papertopic | join: ',' %}
       {% for paper in topic_papers reversed %}
         {% assign match = false %}
         {% for topic in paper.papertopic %}
-          {% if page_topics contains topic %}
+          {% if page.papertopic contains topic %}
             {% assign match = true %}
           {% endif %}
         {% endfor %}
