@@ -2,7 +2,7 @@
 title: "Hybrid AI-enabled Method for UAS and Bird Detection and Classification"
 collection: publications
 category: conferences
-papertopic: ["CAUS", "UAVSim"]
+papertopic: ["CUAS", "UAVSim"]
 permalink: /publication/zhang2020
 slidesurl:
 excerpt: 'A novel approach combining IMM filters and LSTM-based RNNs achieved 99.3% accuracy in classifying drones versus birds using synthetic trajectory data.'
