@@ -21,18 +21,22 @@ Key aspects of our research include the development of resilient AI systems that
   <section id="publications">
       <h2>Research Papers</h2>
       <div class="paper-grid">
-        {% assign topic_papers = site.publications %}
-        {% for paper in topic_papers reversed %}
-          {% if paper.papertopic contains page.papertopic %}
-            <div class="paper-card">
-                <dl>
-                    <dt>{{ paper.citation }}</dt>
-                    <dd>- <em>Description</em>: {{ paper.excerpt }}</dd>
-                </dl>
-                <a href="{{ paper.url }}" class="btn">Read More</a>
-            </div>
+      {% assign topic_papers = site.publications %}
+      {% for paper in topic_papers reversed %}
+        {% assign match = false %}
+        {% for topic in paper.papertopic %}
+          {% if page.papertopic contains topic %}
+            {% assign match = true %}
           {% endif %}
         {% endfor %}
+        {% if match %}
+          <div>
+            <p>{{ paper.citation }}</p>
+            <p>Description: {{ paper.excerpt }}</p>
+            <a href="{{ paper.url }}">Read More</a>
+          </div>
+        {% endif %}
+      {% endfor %}
       </div>
   </section>
 
