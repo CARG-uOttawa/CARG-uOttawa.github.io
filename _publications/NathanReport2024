@@ -1,0 +1,17 @@
+---
+title: "UAV Object Ttracking with Modular Architecture"
+collection: publications
+category: reports
+papertopic: ["CUAS", "UAVSim"]
+permalink: /publication/NathanReport2024
+slidesurl:
+excerpt: 'Signal processing and machine learning for fusion of airborne camera and radar data.'
+date: 2024-12-15
+venue: 'University of Ottawa'
+paperurl: /files/CSI6900_NathanBowness_UAV_Object_Tracking.pdf
+author: 'Nathaniel Bowness'
+citation: 'N. Bowness, UAV Object Ttracking with Modular Architecture, University of Ottawa, 2024.'
+ieee_citation: 'N. Bowness, UAV Object Ttracking with Modular Architecture, University of Ottawa, 2024.'
+---
+
+This report presents a modular architecture for UAV object tracking designed for deployment on embedded systems using Docker containers. The system integrates radar and video processing pipelines, combining detections with a GMPHD-based tracking algorithm to achieve near real-time performance. The radar data processing algorithm effectively tracks hovering objects within a 0.18-second synchronization window, while the initial video pipeline demonstrates accurate distance estimation of static objects. Testing on an Nvidia Jetson Orin shows the system can process and record data within 0.2-second intervals, making it suitable for real-time applications. This work provides a solid starting point for UAV tracking on embedded systems, allowing for easy testing and improvements to individual pieces. The current solution has room for refinement and scalability to handle more dynamic environments and evolving requirements as algorithms improve over time.
